@@ -1,4 +1,4 @@
-#1) Myntra Fashion Store
+1) # Myntra Fashion Store
 
 * **Objective:** Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customer demographics, and regions. 
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -16,9 +16,9 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 
 * **Benefits of this Visualization:**
 
-Easily track the sales and profitability of different fashion categories.
-Identify customer buying trends and preferences.
-Gain actionable insights to make data-driven decisions that optimize fashion merchandising and marketing efforts.
+*Easily track the sales and profitability of different fashion categories.
+*Identify customer buying trends and preferences.
+*Gain actionable insights to make data-driven decisions that optimize fashion merchandising and marketing efforts.
 
 
 * **Power Bi Dashboard Image:**
