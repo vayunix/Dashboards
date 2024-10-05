@@ -72,10 +72,10 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 
 * **Visualization Tools**: This project leverages Power BI/Google Looker Studio to create interactive visualizations, enabling stakeholders to easily understand trends in user feedback. The visualizations will focus on:
 
-      *   Overall sentiment analysis.
-      *   Word clouds of the most common terms in positive and negative reviews.
-      *   Time-series analysis of ratings over different app versions.
-      *   Breakdown of reviews by different app features (Prompt,content).
+   *  Overall sentiment analysis.
+   *  Word clouds of the most common terms in positive and negative reviews.
+   *  Time-series analysis of ratings over different app versions.
+   *  Breakdown of reviews by different app features (Prompt,content).
 
 * **Benefits of this Visualization**:
 
