@@ -79,9 +79,9 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 
 * **Benefits of this Visualization**:
 
-      *  Understand user pain points and areas for improvement.
-      *  Track the performance of newly added features or updates based on user reviews.
-      *  Make informed decisions on app improvements and roadmap planning.
+  *  Understand user pain points and areas for improvement.
+  *  Track the performance of newly added features or updates based on user reviews.
+  *  Make informed decisions on app improvements and roadmap planning.
 
 
 * **Power BI dashboard Image :**
