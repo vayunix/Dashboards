@@ -101,16 +101,16 @@ The goal is to enable data-driven decisions to improve healthcare services and m
 
 * **Key Features :**
 
- * Patient Data by Condition & Gender: Visual breakdowns of patient visits by medical condition and gender.
- * Age Group Insights: Bar chart showing patient distribution across age groups.
- * Monthly Trends: Line graph illustrating patient visits by month.
- * Doctor Performance: Displays which doctors handle the most patients by condition.
+      * Patient Data by Condition & Gender: Visual breakdowns of patient visits by medical condition and gender.
+      * Age Group Insights: Bar chart showing patient distribution across age groups.
+      * Monthly Trends: Line graph illustrating patient visits by month.
+      * Doctor Performance: Displays which doctors handle the most patients by condition.
 
 * **How to Use :**
 
- * Use filters for date range or medical conditions.
- * Monitor KPIs for an overall snapshot.
- * Explore visualizations for detailed insights.
+      * Use filters for date range or medical conditions.
+      * Monitor KPIs for an overall snapshot.
+      * Explore visualizations for detailed insights.
 
 * **Benefits of this Visualization:**
  * The dashboard allows healthcare providers to quickly identify the most common medical conditions, helping them prioritize resources for prevalent health issues like hypertension, obesity, and diabetes.
