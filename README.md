@@ -4,27 +4,27 @@
 
 
 * **Features:**
-                 * KPIs (Key Performance Indicators): Display of total products, total companies, total categories, and average product price.
-                 * Category Price Analysis: Bar chart to identify which product categories have the highest prices.
-                 * Item Category Distribution: Pie chart to show the distribution of Veg vs. Non-Veg products in the inventory.
-                 * Brand Type Distribution: Pie chart that illustrates the share of International and Indian brands.
-                 * Top Subcategories: Horizontal bar chart that shows which subcategories have the highest number of products.
-                 * Company Price Analysis: Tree map showcasing the companies with the highest product prices.
+  * KPIs (Key Performance Indicators): Display of total products, total companies, total categories, and average product price.
+  * Category Price Analysis: Bar chart to identify which product categories have the highest prices.
+  * Item Category Distribution: Pie chart to show the distribution of Veg vs. Non-Veg products in the inventory.
+  * Brand Type Distribution: Pie chart that illustrates the share of International and Indian brands.
+  * Top Subcategories: Horizontal bar chart that shows which subcategories have the highest number of products.
+  * Company Price Analysis: Tree map showcasing the companies with the highest product prices.
 
 
 * **Visualizations:**
 
-                  * Category Price Bar Chart: A horizontal bar chart that highlights the highest prices by category, providing insights into premium product segments.
-                  * Item Category & Brand Type Pie Charts: Pie charts that break down product distribution by item type (Veg/Non-Veg) and brand type (Indian/International).
-                  * Subcategory Product Count: A horizontal bar chart showing the number of products within each subcategory.
-                  * Company Price Tree Map: A tree map that shows the relative pricing of products by different companies.
+  * Category Price Bar Chart: A horizontal bar chart that highlights the highest prices by category, providing insights into premium product segments.
+  * Item Category & Brand Type Pie Charts: Pie charts that break down product distribution by item type (Veg/Non-Veg) and brand type (Indian/International).
+  * Subcategory Product Count: A horizontal bar chart showing the number of products within each subcategory.
+  * Company Price Tree Map: A tree map that shows the relative pricing of products by different companies.
 
 
 * **Usage:**
 
-            * To monitor the inventory, pricing trends, and product distribution.
-            * To analyze category performance and identify trends in pricing and product types.
-            * To inform decisions regarding product sourcing, pricing strategies, and brand partnerships.
+  * To monitor the inventory, pricing trends, and product distribution.
+  * To analyze category performance and identify trends in pricing and product types.
+  * To inform decisions regarding product sourcing, pricing strategies, and brand partnerships.
 
 
 * **Power BI dashboard Image :**
