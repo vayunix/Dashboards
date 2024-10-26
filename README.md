@@ -16,9 +16,9 @@
 
 * **Usage:**
 
-*   * **To monitor the inventory, pricing trends, and product distribution.**
-*   * **To analyze category performance and identify trends in pricing and product types.**
-*   * **To inform decisions regarding product sourcing, pricing strategies, and brand partnerships.**
+   * **To monitor the inventory, pricing trends, and product distribution.**
+   * **To analyze category performance and identify trends in pricing and product types.**
+   * **To inform decisions regarding product sourcing, pricing strategies, and brand partnerships.**
 
 
 * **Visualizations:**
