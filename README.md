@@ -1,6 +1,6 @@
-                                                                                                                                                                        
-# 1) Zepto Product Analytics Dashboard                                                                                                                                                                         * **Contact Email:** vayunix@gmail.com                                                                                                                                                                                                 
+* **Contact Email:** vayunix@gmail.com                                                                                                                                                                          
 
+# 1) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
 * **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision makers at Zepto get a deeper sense of distribution, availability by category as well as pricing trends.
 
 * **Power BI dashboard Image :**
