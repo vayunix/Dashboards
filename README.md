@@ -1,4 +1,37 @@
-# 1) Ajio Fashion Store
+# 1)Zepto Product Analytics Dashboard
+
+* **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision makers at Zepto get a deeper sense of distribution, availability by category as well as pricing trends.
+
+
+* **Features:**
+               * KPIs (Key Performance Indicators): Display of total products, total companies, total categories, and average product price.
+               * Category Price Analysis: Bar chart to identify which product categories have the highest prices.
+               * Item Category Distribution: Pie chart to show the distribution of Veg vs. Non-Veg products in the inventory.
+               * Brand Type Distribution: Pie chart that illustrates the share of International and Indian brands.
+               * Top Subcategories: Horizontal bar chart that shows which subcategories have the highest number of products.
+               * Company Price Analysis: Tree map showcasing the companies with the highest product prices.
+
+
+* **Visualizations:**
+
+              * Category Price Bar Chart: A horizontal bar chart that highlights the highest prices by category, providing insights into premium product segments.
+              * Item Category & Brand Type Pie Charts: Pie charts that break down product distribution by item type (Veg/Non-Veg) and brand type (Indian/International).
+              * Subcategory Product Count: A horizontal bar chart showing the number of products within each subcategory.
+              * Company Price Tree Map: A tree map that shows the relative pricing of products by different companies.
+
+
+* **Usage:**
+
+            * To monitor the inventory, pricing trends, and product distribution.
+            * To analyze category performance and identify trends in pricing and product types.
+            * To inform decisions regarding product sourcing, pricing strategies, and brand partnerships.
+
+
+* **Power BI dashboard Image :**
+![Zepto_page-0001](https://github.com/user-attachments/assets/c4feb09e-b8fe-4198-9708-75946be6a5e0)
+
+
+# 2) Ajio Fashion Store
 
 * **Objective**: Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customdemographics, colors and Brands.
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -30,7 +63,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 ![Ajio Fashion_page-0001](https://github.com/user-attachments/assets/8bab49cf-8e05-4ffb-9435-9773ca6bbe40)
 
 
- # 2) Myntra Fashion Store
+ # 3) Myntra Fashion Store
 
 * **Objective:** Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customer demographics, and regions. 
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -64,7 +97,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 ![Myntra_Sales_Report_page-0001](https://github.com/user-attachments/assets/0b360dcf-76df-401a-9818-30a39c648f49)
 
 
-# 3) ChatGPT App Reviews :
+# 4) ChatGPT App Reviews :
 
 * **Objective**: To analyze ChatGPT app reviews, providing insights into user feedback, identifying key issues, and tracking trends related to user satisfaction over time. This project will help improve app features and user experience by examining common themes and sentiments expressed by users in their reviews.
 
@@ -93,7 +126,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 
 
 
-# 4) Healthcare Analysis :
+# 5) Healthcare Analysis :
 
 * **Objective :** The Healthcare Analysis Dashboard is designed to provide an insightful view into patient demographics, doctor performance, and medical conditions. 
 This dynamic dashboard, developed using Power BI or Google Looker Studio, helps healthcare administrators and professionals to track patient data, hospital performance, and key metrics across multiple dimensions such as gender, age group, and medical conditions. 
@@ -127,7 +160,7 @@ The goal is to enable data-driven decisions to improve healthcare services and m
 
 ![Healthcare_Analysis_Report_page-0001](https://github.com/user-attachments/assets/3f053851-8dfb-41b0-b4e7-79e4e730bfa2)
 
-# 5) Spotify Music :
+# 6) Spotify Music :
 
 * **Objective** :
     The objective of this project is to provide a comprehensive music analytics dashboard using data from Spotify. 
