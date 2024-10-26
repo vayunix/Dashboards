@@ -232,6 +232,6 @@ The goal is to enable data-driven decisions to improve healthcare services and m
 * **These Dashboards are made in Microsoft Powerbi, Tableau, Oracle Analytics, and Apache superset technologies
 Please get in touch with us.**
 
-**Contact Email:** vayunix@gmail.com    
+* **Contact Email:** vayunix@gmail.com    
 
 
