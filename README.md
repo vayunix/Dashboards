@@ -31,7 +31,42 @@
 ![Zepto_page-0001](https://github.com/user-attachments/assets/c4feb09e-b8fe-4198-9708-75946be6a5e0)
 
 
-# 2) Ajio Fashion Store
+
+# 2) Indeed Analytics Dashboard:
+
+* **Objective:** Indeed Job Analytics Dashboard allows users to analyze job listings data provided by Indeed. The dashboard features important stats such as total jobs, total companies, and average pay. The tool also breaks down job postings by the company posting, type of jobs, location and types of companies that are hiring which helps in recognizing patterns in hires, salary spreads and best employers on each city.
+
+
+* **Features:**
+ * KPIs (Key Performance Indicators): Summary metrics showing total jobs, total companies, total cities, and average salaries.
+ * Job Distribution by Company Type: A donut chart differentiating job listings by Indian and International companies.
+ * Job Type Analysis: Pie chart showcasing the split between Full-time and Permanent positions.
+ * Top Employers by Job Count: Horizontal bar chart highlighting companies with the most job listings.
+ * Salary Analysis by Company: A tree map showing which companies offer the highest salaries.
+ * Salary Analysis by City: Vertical bar chart comparing average salaries across different cities.
+
+
+* **Visualizations:**
+
+* Company Type Donut Chart: Displays the distribution of job listings by company type (Indian vs. International).
+* Job Type Pie Chart: Shows the split between Full-time and Permanent job listings.
+* Top Hiring Companies Bar Chart: Highlights companies with the highest number of job listings.
+* Company Salary Tree Map: Visualizes companies with the highest salaries in terms of job listings.
+* City Salary Bar Chart: Shows the average salary distribution by city.
+
+
+* **Usage:**
+
+* To track hiring trends, top employers, and salary benchmarks.
+* To identify top-paying companies and cities for employment opportunities.
+* To analyze job distribution trends by type, company origin, and location.
+
+
+* **Power BI dashboard Image :**
+![Indeed_page-0001](https://github.com/user-attachments/assets/0ae59fd7-cb0f-4b90-b78f-dc86cb5ed8e5)
+
+
+# 3) Ajio Fashion Store
 
 * **Objective**: Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customdemographics, colors and Brands.
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -63,7 +98,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 ![Ajio Fashion_page-0001](https://github.com/user-attachments/assets/8bab49cf-8e05-4ffb-9435-9773ca6bbe40)
 
 
- # 3) Myntra Fashion Store
+ # 4) Myntra Fashion Store
 
 * **Objective:** Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customer demographics, and regions. 
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -97,7 +132,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 ![Myntra_Sales_Report_page-0001](https://github.com/user-attachments/assets/0b360dcf-76df-401a-9818-30a39c648f49)
 
 
-# 4) ChatGPT App Reviews :
+# 5) ChatGPT App Reviews :
 
 * **Objective**: To analyze ChatGPT app reviews, providing insights into user feedback, identifying key issues, and tracking trends related to user satisfaction over time. This project will help improve app features and user experience by examining common themes and sentiments expressed by users in their reviews.
 
@@ -126,7 +161,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 
 
 
-# 5) Healthcare Analysis :
+# 6) Healthcare Analysis :
 
 * **Objective :** The Healthcare Analysis Dashboard is designed to provide an insightful view into patient demographics, doctor performance, and medical conditions. 
 This dynamic dashboard, developed using Power BI or Google Looker Studio, helps healthcare administrators and professionals to track patient data, hospital performance, and key metrics across multiple dimensions such as gender, age group, and medical conditions. 
@@ -160,7 +195,7 @@ The goal is to enable data-driven decisions to improve healthcare services and m
 
 ![Healthcare_Analysis_Report_page-0001](https://github.com/user-attachments/assets/3f053851-8dfb-41b0-b4e7-79e4e730bfa2)
 
-# 6) Spotify Music :
+# 7) Spotify Music :
 
 * **Objective** :
     The objective of this project is to provide a comprehensive music analytics dashboard using data from Spotify. 
