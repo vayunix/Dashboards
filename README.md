@@ -49,11 +49,11 @@
 
 * **Visualizations:**
 
-* Company Type Donut Chart: Displays the distribution of job listings by company type (Indian vs. International).
-* Job Type Pie Chart: Shows the split between Full-time and Permanent job listings.
-* Top Hiring Companies Bar Chart: Highlights companies with the highest number of job listings.
-* Company Salary Tree Map: Visualizes companies with the highest salaries in terms of job listings.
-* City Salary Bar Chart: Shows the average salary distribution by city.
+  * Company Type Donut Chart: Displays the distribution of job listings by company type (Indian vs. International).
+  * Job Type Pie Chart: Shows the split between Full-time and Permanent job listings.
+  * Top Hiring Companies Bar Chart: Highlights companies with the highest number of job listings.
+  * Company Salary Tree Map: Visualizes companies with the highest salaries in terms of job listings.
+  * City Salary Bar Chart: Shows the average salary distribution by city.
 
 
 * **Usage:**
