@@ -13,8 +13,6 @@
 
 
 * **Visualizations:**
-
-   
       * Category Price Bar Chart: A horizontal bar chart that highlights the highest prices by category, providing insights into premium product segments.
       * Item Category & Brand Type Pie Charts: Pie charts that break down product distribution by item type (Veg/Non-Veg) and brand type (Indian/International).
       * Subcategory Product Count: A horizontal bar chart showing the number of products within each subcategory.
