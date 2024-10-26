@@ -1,3 +1,4 @@
+                                                                                                                                                                                                                      * **Contact Email:** vayunix@gmail.com                                                                                                                                                                                                                                              
 # 1) Zepto Product Analytics Dashboard
 
 * **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision makers at Zepto get a deeper sense of distribution, availability by category as well as pricing trends.
@@ -228,7 +229,7 @@ The goal is to enable data-driven decisions to improve healthcare services and m
 
 
 
-* These Dashboards are made in Microsoft Powerbi, Tableau, Oracle Analytics, and Apache superset technologies
-Please get in touch with us.
+* **These Dashboards are made in Microsoft Powerbi, Tableau, Oracle Analytics, and Apache superset technologies
+Please get in touch with us.**
 
-* **Contact Email:** vayunix@gmail.com
+
