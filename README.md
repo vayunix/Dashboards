@@ -45,16 +45,15 @@
     * Salary Analysis by Company: A tree map showing which companies offer the highest salaries.
     * Salary Analysis by City: Vertical bar chart comparing average salaries across different cities.
 
+* **Power BI dashboard Image :**
+![Indeed_page-0001](https://github.com/user-attachments/assets/0ae59fd7-cb0f-4b90-b78f-dc86cb5ed8e5)
+
 
 * **Usage:**
 
   * To track hiring trends, top employers, and salary benchmarks.
   * To identify top-paying companies and cities for employment opportunities.
   * To analyze job distribution trends by type, company origin, and location.
-
-
-* **Power BI dashboard Image :**
-![Indeed_page-0001](https://github.com/user-attachments/assets/0ae59fd7-cb0f-4b90-b78f-dc86cb5ed8e5)
 
 
 * **Visualizations:**
