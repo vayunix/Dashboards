@@ -199,6 +199,10 @@ The goal is to enable data-driven decisions to improve healthcare services and m
     The dashboard allows users to visualize and analyze key performance metrics such as track streams, artist popularity, album reach, and geographical insights into streaming behavior. 
     This analysis helps identify trends in music consumption and informs strategic decision-making for artists, producers, and music curators.
 
+* **View Live Looker Studio Dashboard here:** https://lookerstudio.google.com/s/v3uQK21Hhfk
+
+![Spotify_Music_Report_page-0001](https://github.com/user-attachments/assets/f25afa27-51df-4eaf-a8ed-25835a92ab76)
+
 
 * **Features :**
 
@@ -208,6 +212,12 @@ The goal is to enable data-driven decisions to improve healthcare services and m
      * Streams by Country: Visualize how streams are distributed across countries to identify geographical music trends.
      * Streams by Month: Analyze how streaming numbers fluctuate month-by-month, helping to identify seasonal trends.
 
+* **Benefits of this Visualization:**
+
+   * **Artists: To understand which of their songs or albums are performing well and in which regions.**
+   * **Music Producers: To track the success of the music they produce and identify the best-performing genres or collaborations.**
+   * **Marketers: To identify which tracks or albums need promotion based on performance data and streaming trends.**
+
 
 * **Visualizations:**
 
@@ -215,18 +225,6 @@ The goal is to enable data-driven decisions to improve healthcare services and m
      * Artist Popularity: A table that compares popular artists by their playlist reach and overall Spotify popularity score.
      * Country Insights: The donut chart breaks down the percentage of streams coming from different countries, providing a geographical perspective on streaming trends.
      * Monthly Trends: The line graph offers insights into the monthly fluctuations in streaming activity, which could be influenced by seasonal factors, new releases, or promotional events.
-
-
-* **Benefits of this Visualization:**
-
-   *  Artists: To understand which of their songs or albums are performing well and in which regions.
-   *  Music Producers: To track the success of the music they produce and identify the best-performing genres or collaborations.
-   *  Marketers: To identify which tracks or albums need promotion based on performance data and streaming trends.
-
-
-* **View Live Looker Studio Dashboard here:** https://lookerstudio.google.com/s/v3uQK21Hhfk
-
-![Spotify_Music_Report_page-0001](https://github.com/user-attachments/assets/f25afa27-51df-4eaf-a8ed-25835a92ab76)
 
 
 * These Dashboards are made in Microsoft Powerbi, Tableau, Oracle Analytics, and Apache superset technologies
