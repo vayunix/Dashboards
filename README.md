@@ -34,6 +34,10 @@
 * **Objective:** Indeed Job Analytics Dashboard allows users to analyze job listings data provided by Indeed. The dashboard features important stats such as total jobs, total companies, and average pay. The tool also breaks down job postings by the company posting, type of jobs, location and types of companies that are hiring which helps in recognizing patterns in hires, salary spreads and best employers on each city.
 
 
+* **Power BI dashboard Image :**
+![Indeed_page-0001](https://github.com/user-attachments/assets/0ae59fd7-cb0f-4b90-b78f-dc86cb5ed8e5)
+
+
 * **Features:**
  
     * KPIs (Key Performance Indicators): Summary metrics showing total jobs, total companies, total cities, and average salaries.
@@ -42,9 +46,6 @@
     * Top Employers by Job Count: Horizontal bar chart highlighting companies with the most job listings.
     * Salary Analysis by Company: A tree map showing which companies offer the highest salaries.
     * Salary Analysis by City: Vertical bar chart comparing average salaries across different cities.
-
-* **Power BI dashboard Image :**
-![Indeed_page-0001](https://github.com/user-attachments/assets/0ae59fd7-cb0f-4b90-b78f-dc86cb5ed8e5)
 
 
 * **Usage:**
