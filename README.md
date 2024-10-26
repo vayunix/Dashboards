@@ -172,6 +172,12 @@ The goal is to enable data-driven decisions to improve healthcare services and m
 
 ![Healthcare_Analysis_Report_page-0001](https://github.com/user-attachments/assets/3f053851-8dfb-41b0-b4e7-79e4e730bfa2)
 
+* **Key Features :**
+
+  * Patient Data by Condition & Gender: Visual breakdowns of patient visits by medical condition and gender.
+  * Age Group Insights: Bar chart showing patient distribution across age groups.
+  * Monthly Trends: Line graph illustrating patient visits by month.
+  * Doctor Performance: Displays which doctors handle the most patients by condition.
 
 * **Benefits of this Visualization:**
   * **The dashboard allows healthcare providers to quickly identify the most common medical conditions, helping them prioritize resources for prevalent health issues like hypertension, obesity, and diabetes.**
@@ -179,13 +185,6 @@ The goal is to enable data-driven decisions to improve healthcare services and m
   * **Monthly patient trends and age group distribution help predict patient inflow, allow for proactive planning during peak times, improve the quality of service, and reduce patient waiting times.**
   * **With a clear breakdown of patient visits by gender and age group, healthcare providers can tailor care strategies for different segments, ensuring personalized care for other populations (e.g., the elderly, women, or younger patients).**
 
-
-* **Key Features :**
-
-  * Patient Data by Condition & Gender: Visual breakdowns of patient visits by medical condition and gender.
-  * Age Group Insights: Bar chart showing patient distribution across age groups.
-  * Monthly Trends: Line graph illustrating patient visits by month.
-  * Doctor Performance: Displays which doctors handle the most patients by condition.
 
 * **How to Use :**
 
