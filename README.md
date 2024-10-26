@@ -58,9 +58,9 @@
 
 * **Usage:**
 
-* To track hiring trends, top employers, and salary benchmarks.
-* To identify top-paying companies and cities for employment opportunities.
-* To analyze job distribution trends by type, company origin, and location.
+  * To track hiring trends, top employers, and salary benchmarks.
+  * To identify top-paying companies and cities for employment opportunities.
+  * To analyze job distribution trends by type, company origin, and location.
 
 
 * **Power BI dashboard Image :**
