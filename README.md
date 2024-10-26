@@ -38,12 +38,13 @@
 
 
 * **Features:**
- * KPIs (Key Performance Indicators): Summary metrics showing total jobs, total companies, total cities, and average salaries.
- * Job Distribution by Company Type: A donut chart differentiating job listings by Indian and International companies.
- * Job Type Analysis: Pie chart showcasing the split between Full-time and Permanent positions.
- * Top Employers by Job Count: Horizontal bar chart highlighting companies with the most job listings.
- * Salary Analysis by Company: A tree map showing which companies offer the highest salaries.
- * Salary Analysis by City: Vertical bar chart comparing average salaries across different cities.
+ 
+    * KPIs (Key Performance Indicators): Summary metrics showing total jobs, total companies, total cities, and average salaries.
+    * Job Distribution by Company Type: A donut chart differentiating job listings by Indian and International companies.
+    * Job Type Analysis: Pie chart showcasing the split between Full-time and Permanent positions.
+    * Top Employers by Job Count: Horizontal bar chart highlighting companies with the most job listings.
+    * Salary Analysis by Company: A tree map showing which companies offer the highest salaries.
+    * Salary Analysis by City: Vertical bar chart comparing average salaries across different cities.
 
 
 * **Visualizations:**
