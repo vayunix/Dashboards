@@ -2,6 +2,8 @@
 
 * **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision makers at Zepto get a deeper sense of distribution, availability by category as well as pricing trends.
 
+* **Power BI dashboard Image :**
+![Zepto_page-0001](https://github.com/user-attachments/assets/c4feb09e-b8fe-4198-9708-75946be6a5e0)
 
 
 * **Features:**
@@ -11,10 +13,6 @@
    * Brand Type Distribution: Pie chart that illustrates the share of International and Indian brands.
    * Top Subcategories: Horizontal bar chart that shows which subcategories have the highest number of products.
    * Company Price Analysis: Tree map showcasing the companies with the highest product prices.
-
-* **Power BI dashboard Image :**
-![Zepto_page-0001](https://github.com/user-attachments/assets/c4feb09e-b8fe-4198-9708-75946be6a5e0)
-
 
 * **Usage:**
 
