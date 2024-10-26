@@ -47,15 +47,6 @@
     * Salary Analysis by City: Vertical bar chart comparing average salaries across different cities.
 
 
-* **Visualizations:**
-
-  * Company Type Donut Chart: Displays the distribution of job listings by company type (Indian vs. International).
-  * Job Type Pie Chart: Shows the split between Full-time and Permanent job listings.
-  * Top Hiring Companies Bar Chart: Highlights companies with the highest number of job listings.
-  * Company Salary Tree Map: Visualizes companies with the highest salaries in terms of job listings.
-  * City Salary Bar Chart: Shows the average salary distribution by city.
-
-
 * **Usage:**
 
   * To track hiring trends, top employers, and salary benchmarks.
@@ -65,6 +56,15 @@
 
 * **Power BI dashboard Image :**
 ![Indeed_page-0001](https://github.com/user-attachments/assets/0ae59fd7-cb0f-4b90-b78f-dc86cb5ed8e5)
+
+
+* **Visualizations:**
+
+  * Company Type Donut Chart: Displays the distribution of job listings by company type (Indian vs. International).
+  * Job Type Pie Chart: Shows the split between Full-time and Permanent job listings.
+  * Top Hiring Companies Bar Chart: Highlights companies with the highest number of job listings.
+  * Company Salary Tree Map: Visualizes companies with the highest salaries in terms of job listings.
+  * City Salary Bar Chart: Shows the average salary distribution by city.
 
 
 # 3) Ajio Fashion Store
