@@ -34,12 +34,12 @@
    * **To address recurring user concerns and improve the review experience.**
 
 * **Visualizations:**
-      * **KPI Cards:**
+  * **KPI Cards:**
 
-       * Total Reviews: Numeric representation of total reviews received.
-       * Total Users: Count of unique users who reviewed the app.
-       * Thumbs Ups: Total number of likes for reviews.
-       * Average Scores: Average rating score for the app.
+      * Total Reviews: Numeric representation of total reviews received.
+      * Total Users: Count of unique users who reviewed the app.
+      * Thumbs Ups: Total number of likes for reviews.
+      * Average Scores: Average rating score for the app.
 
 
 
