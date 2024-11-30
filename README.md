@@ -43,30 +43,30 @@
 
 
 
-    * **Pie Charts:**
+  * **Pie Charts:**
 
       * Reviews by Review Time: Split between day and night reviews.
       * Reviews by User Type: Normal users vs. Google users.
 
 
-    * **Bar Chart:**
+  * **Bar Chart:**
 
       * Highest Reviews by App Version: App versions with the most reviews.
       * Review Content Focus: Categories like App, Delivery, Service, Product, Quality.
 
 
-    * **Line Chart:**
+  * **Line Chart:**
 
       * Reviews by Month: Monthly review trends throughout the year.
 
 
-    * **Filters:**
+  * **Filters:**
 
       * Dropdown filters for Year and Quarter to refine data.
 
 
 
-    * **Refresh Button:**
+  * **Refresh Button:**
 
       * Update dashboard data dynamically.
 
