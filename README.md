@@ -1,7 +1,78 @@
 **Contact Email:** vayunix@gmail.com                                                                                                                                                                          
 
-# 1) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
-* **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision makers at Zepto get a deeper sense of distribution, availability by category as well as pricing trends.
+# 1) Amazon Shopping App Reviews
+* **Objective:** The primary goal of this dashboard is to analyze user reviews of the Amazon Shopping App to derive meaningful insights. It aims to Understand user feedback trends.
+  Identify the most common review themes.Evaluate app performance across different versions and user types.Provide actionable insights for improving the user experience and addressing user concerns.
+
+* **Power BI dashboard Image :**
+![Amazon Shopping App Reviews_page-0001](https://github.com/user-attachments/assets/cc14f257-ce80-4aef-aa54-89a1685572c2)
+
+
+* **Features:**
+    *  Display key metrics like total reviews, total users, thumbs-ups, and average scores at a glance.
+
+    *  Year and quarter filters for targeted analysis of reviews.
+
+    *  Option to refresh data to reflect real-time changes.
+
+    *  Visual breakdown of reviews by time of day, app version, and user type.
+
+    * Analyze the content focus of reviews to identify recurring feedback themes.
+
+    * Visualize monthly review trends to track user engagement over time.
+
+* **Usage:**
+
+   * **Track app performance metrics and identify areas for improvement.**
+
+
+   * **To analyze app version feedback for bug fixes or feature improvements.**
+
+
+   * **To understand user sentiment and optimize campaigns for customer satisfaction.**
+
+   * **To address recurring user concerns and improve the review experience.**
+
+* **Visualizations:**
+  * **KPI Cards:**
+
+      * Total Reviews: Numeric representation of total reviews received.
+      * Total Users: Count of unique users who reviewed the app.
+      * Thumbs Ups: Total number of likes for reviews.
+      * Average Scores: Average rating score for the app.
+
+
+
+  * **Pie Charts:**
+
+      * Reviews by Review Time: Split between day and night reviews.
+      * Reviews by User Type: Normal users vs. Google users.
+
+
+  * **Bar Chart:**
+
+      * Highest Reviews by App Version: App versions with the most reviews.
+      * Review Content Focus: Categories like App, Delivery, Service, Product, Quality.
+
+
+  * **Line Chart:**
+
+      * Reviews by Month: Monthly review trends throughout the year.
+
+
+  * **Filters:**
+
+      * Dropdown filters for Year and Quarter to refine data.
+
+
+
+  * **Refresh Button:**
+
+      * Update dashboard data dynamically.
+
+
+# 2) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
+* **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision-makers at Zepto get a deeper sense of distribution, availability by category, and pricing trends.
 
 * **Power BI dashboard Image :**
 ![Zepto_page-0001](https://github.com/user-attachments/assets/c4feb09e-b8fe-4198-9708-75946be6a5e0)
@@ -30,7 +101,7 @@
   * Company Price Tree Map: A tree map that shows the relative pricing of products by different companies.
 
 
-# 2) Indeed Analytics Dashboard:
+# 3) Indeed Analytics Dashboard:
 
 * **Objective:** Indeed Job Analytics Dashboard allows users to analyze job listings data provided by Indeed. The dashboard features important stats such as total jobs, total companies, and average pay. The tool also breaks down job postings by the company posting, type of jobs, location and types of companies that are hiring which helps in recognizing patterns in hires, salary spreads and best employers on each city.
 
@@ -65,7 +136,7 @@
   * City Salary Bar Chart: Shows the average salary distribution by city.
 
 
-# 3) Ajio Fashion Store
+# 4) Ajio Fashion Store
 
 * **Objective**: Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customdemographics, colors and Brands.
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -97,7 +168,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 * **Deep Dive into the Data**: Drill-through features allow for a detailed analysis of fashion sales by categories. This helps you pinpoint which products resonate with customers during different seasons and plan inventory accordingly.
 
 
- # 4) Myntra Fashion Store
+ # 5) Myntra Fashion Store
 
 * **Objective:** Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customer demographics, and regions. 
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -131,7 +202,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    * Individual Category: tops,blazer,coats etc.
 
 
-# 5) ChatGPT App Reviews :
+# 6) ChatGPT App Reviews :
 
 * **Objective**: To analyze ChatGPT app reviews, providing insights into user feedback, identifying key issues, and tracking trends related to user satisfaction over time. This project will help improve app features and user experience by examining common themes and sentiments expressed by users in their reviews.
 
@@ -159,7 +230,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    *  Breakdown of reviews by different app features (Prompt,content).
 
 
-# 6) Healthcare Analysis :
+# 7) Healthcare Analysis :
 
 * **Objective :** The Healthcare Analysis Dashboard is designed to provide an insightful view into patient demographics, doctor performance, and medical conditions. 
 This dynamic dashboard, developed using Power BI or Google Looker Studio, helps healthcare administrators and professionals to track patient data, hospital performance, and key metrics across multiple dimensions such as gender, age group, and medical conditions. 
@@ -193,7 +264,7 @@ The goal is to enable data-driven decisions to improve healthcare services and m
   * Monitor KPIs for an overall snapshot.
   * Explore visualizations for detailed insights.
 
-# 7) Spotify Music :
+# 8) Spotify Music :
 
 * **Objective** :
     The objective of this project is to provide a comprehensive music analytics dashboard using data from Spotify. 
