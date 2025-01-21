@@ -30,9 +30,9 @@
     * **Bar Charts:**
               * Quarterly Sales: Compare sales performance across quarters.
               * Top Pizzas: Display the best-selling pizzas with corresponding revenue.
-* **Line Chart:**
+    * **Line Chart:**
               * Sales by Month: Tracks monthly sales trends for seasonal insights.
-* **Filters and Refresh:**
+    * **Filters and Refresh:**
               * Easy-to-use dropdown filters and a refresh button for real-time updates.
 
 
