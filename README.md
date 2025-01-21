@@ -23,17 +23,17 @@
         
 * **Visualizations:**
     * **KPI Cards:**
-              * Showcases key performance metrics like total pizzas sold, total sales, and average sales.
+                  * Showcases key performance metrics like total pizzas sold, total sales, and average sales.
     * **Pie Charts:**
-              * Sales by Category: Visualize the contribution of different pizza categories.
-              * Sales by Time Period: Highlights the best-performing time slots.
+                  * Sales by Category: Visualize the contribution of different pizza categories.
+                  * Sales by Time Period: Highlights the best-performing time slots.
     * **Bar Charts:**
-              * Quarterly Sales: Compare sales performance across quarters.
-              * Top Pizzas: Display the best-selling pizzas with corresponding revenue.
+                  * Quarterly Sales: Compare sales performance across quarters.
+                  * Top Pizzas: Display the best-selling pizzas with corresponding revenue.
     * **Line Chart:**
-              * Sales by Month: Tracks monthly sales trends for seasonal insights.
+                  * Sales by Month: Tracks monthly sales trends for seasonal insights.
     * **Filters and Refresh:**
-              * Easy-to-use dropdown filters and a refresh button for real-time updates.
+                  * Easy-to-use dropdown filters and a refresh button for real-time updates.
 
 
 # 2) Amazon Shopping App Reviews
