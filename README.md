@@ -37,7 +37,7 @@
 
 
 
-# 2) Adani Stock Dashboard
+# 2) Stock Analysis Dashboard
 * **Objective:** The Adani Stock Dashboard provides a comprehensive analysis of stock performance across companies within the Adani Group. It offers key insights into stock highs, lows, openings, closings, and volumes, helping stakeholders track and compare company performance efficiently. The dashboard is interactive, user-friendly, and designed for quick data interpretation.
 
 * **Power BI dashboard Image :**
@@ -46,15 +46,10 @@
 
 * **Features:**
   * Key Performance Metrics: Highlights daily high, low, open, and close values of Adani stocks.
-
   * Company-Wise Analysis: Displays the highest high, open, low, and close values for individual companies.
-
   * Volume Breakdown: Treemap visualization to identify companies with the highest stock trading volumes.
-
   * Comparative Charts: Bar charts and pie charts for clear company-wise comparisons.
-
   * Dynamic Filtering: Dropdown filters for year and month selection to customize data views.
-
   * Real-Time Refresh: Refresh button to update and fetch the latest stock data.
 
 
