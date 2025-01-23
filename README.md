@@ -45,17 +45,17 @@
 ![Adani Stock_page-0001](https://github.com/user-attachments/assets/63caaa57-813c-4c7e-bd9d-4c4815813632)
 
 * **Features:**
-* Key Performance Metrics: Highlights daily high, low, open, and close values of Adani stocks.
+  * Key Performance Metrics: Highlights daily high, low, open, and close values of Adani stocks.
 
-* Company-Wise Analysis: Displays the highest high, open, low, and close values for individual companies.
+  * Company-Wise Analysis: Displays the highest high, open, low, and close values for individual companies.
 
-* Volume Breakdown: Treemap visualization to identify companies with the highest stock trading volumes.
+  * Volume Breakdown: Treemap visualization to identify companies with the highest stock trading volumes.
 
-* Comparative Charts: Bar charts and pie charts for clear company-wise comparisons.
+  * Comparative Charts: Bar charts and pie charts for clear company-wise comparisons.
 
-* Dynamic Filtering: Dropdown filters for year and month selection to customize data views.
+  * Dynamic Filtering: Dropdown filters for year and month selection to customize data views.
 
-* Real-Time Refresh: Refresh button to update and fetch the latest stock data.
+  * Real-Time Refresh: Refresh button to update and fetch the latest stock data.
 
 
 * **Usage**:
