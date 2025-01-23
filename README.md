@@ -59,17 +59,17 @@
 
 
 * **Usage**:
-* **Investors and Analysts:**
- * Track daily stock performance for investment decisions.
+   * **Investors and Analysts:**
+     * Track daily stock performance for investment decisions.
 
-* **Company Stakeholders:**
- * Understand how individual companies within the Adani Group are performing.
+   * **Company Stakeholders:**
+     * Understand how individual companies within the Adani Group are performing.
 
-* **Market Researchers:**
- * Analyze stock trends and trading volumes to predict future performance.
+   * **Market Researchers:**
+     * Analyze stock trends and trading volumes to predict future performance.
 
-* **Decision Makers:**
- * Compare high-performing stocks to allocate resources effectively.
+   * **Decision Makers:**
+     * Compare high-performing stocks to allocate resources effectively.
 
 
 * **Visualizations:**
