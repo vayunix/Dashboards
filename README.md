@@ -73,22 +73,22 @@
 
 
 * **Visualizations:**
-* **Key Metrics Cards:**
- * Displays total high, low, open, and close stock prices with easy-to-read values.
-* **Pie Charts:**
- * Breakdown of the highest open and low values by company.
+  * **Key Metrics Cards:**
+    * Displays total high, low, open, and close stock prices with easy-to-read values.
+  * **Pie Charts:**
+    * Breakdown of the highest open and low values by company.
 
-* **Bar Charts:**
- * Comparative view of the highest close values by company.
+  * **Bar Charts:**
+    * Comparative view of the highest close values by company.
 
-* **Treemap:**
- * Visualizes the highest volume by company, highlighting major contributors.
+  * **Treemap:**
+    * Visualizes the highest volume by company, highlighting major contributors.
 
-* **Interactive Filters:**
- * Dropdowns for filtering stock data by year and month, ensuring user-specific analysis.
+  * **Interactive Filters:**
+    * Dropdowns for filtering stock data by year and month, ensuring user-specific analysis.
 
-* **Interactive Buttons:**
- * Refresh button to load the latest stock data seamlessly.
+  * **Interactive Buttons:**
+    * Refresh button to load the latest stock data seamlessly.
 
 
 # 3) Amazon Shopping App Reviews
