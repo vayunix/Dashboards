@@ -36,7 +36,62 @@
       * Easy-to-use dropdown filters and a refresh button for real-time updates.
 
 
-# 2) Amazon Shopping App Reviews
+
+# 2) Adani Stock Dashboard
+* **Objective:** The Adani Stock Dashboard provides a comprehensive analysis of stock performance across companies within the Adani Group. It offers key insights into stock highs, lows, openings, closings, and volumes, helping stakeholders track and compare company performance efficiently. The dashboard is interactive, user-friendly, and designed for quick data interpretation.
+
+* **Power BI dashboard Image :**
+
+![Adani Stock_page-0001](https://github.com/user-attachments/assets/63caaa57-813c-4c7e-bd9d-4c4815813632)
+
+* **Features:**
+* Key Performance Metrics: Highlights daily high, low, open, and close values of Adani stocks.
+
+* Company-Wise Analysis: Displays the highest high, open, low, and close values for individual companies.
+
+* Volume Breakdown: Treemap visualization to identify companies with the highest stock trading volumes.
+
+* Comparative Charts: Bar charts and pie charts for clear company-wise comparisons.
+
+* Dynamic Filtering: Dropdown filters for year and month selection to customize data views.
+
+* Real-Time Refresh: Refresh button to update and fetch the latest stock data.
+
+
+* **Usage**:
+* **Investors and Analysts:**
+ * Track daily stock performance for investment decisions.
+
+* **Company Stakeholders:**
+ * Understand how individual companies within the Adani Group are performing.
+
+* **Market Researchers:**
+ * Analyze stock trends and trading volumes to predict future performance.
+
+* **Decision Makers:**
+ * Compare high-performing stocks to allocate resources effectively.
+
+
+* **Visualizations:**
+* **Key Metrics Cards:**
+ * Displays total high, low, open, and close stock prices with easy-to-read values.
+* **Pie Charts:**
+ * Breakdown of the highest open and low values by company.
+
+* **Bar Charts:**
+ * Comparative view of the highest close values by company.
+
+* **Treemap:**
+ * Visualizes the highest volume by company, highlighting major contributors.
+
+* **Interactive Filters:**
+ * Dropdowns for filtering stock data by year and month, ensuring user-specific analysis.
+
+* **Interactive Buttons:**
+ * Refresh button to load the latest stock data seamlessly.
+
+
+# 3) Amazon Shopping App Reviews
 * **Objective:** The primary goal of this dashboard is to analyze user reviews of the Amazon Shopping App to derive meaningful insights. It aims to Understand user feedback trends.
   Identify the most common review themes.Evaluate app performance across different versions and user types.Provide actionable insights for improving the user experience and addressing user concerns.
 
@@ -107,7 +162,7 @@
       * Update dashboard data dynamically.
 
 
-# 3) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
+# 4) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
 * **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision-makers at Zepto get a deeper sense of distribution, availability by category, and pricing trends.
 
 * **Power BI dashboard Image :**
@@ -137,7 +192,7 @@
   * Company Price Tree Map: A tree map that shows the relative pricing of products by different companies.
 
 
-# 4) Indeed Analytics Dashboard:
+# 5) Indeed Analytics Dashboard:
 
 * **Objective:** Indeed Job Analytics Dashboard allows users to analyze job listings data provided by Indeed. The dashboard features important stats such as total jobs, total companies, and average pay. The tool also breaks down job postings by the company posting, type of jobs, location and types of companies that are hiring which helps in recognizing patterns in hires, salary spreads and best employers on each city.
 
@@ -172,7 +227,7 @@
   * City Salary Bar Chart: Shows the average salary distribution by city.
 
 
-# 5) Ajio Fashion Store
+# 6) Ajio Fashion Store
 
 * **Objective**: Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customdemographics, colors and Brands.
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -204,7 +259,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 * **Deep Dive into the Data**: Drill-through features allow for a detailed analysis of fashion sales by categories. This helps you pinpoint which products resonate with customers during different seasons and plan inventory accordingly.
 
 
- # 6) Myntra Fashion Store
+ # 7) Myntra Fashion Store
 
 * **Objective:** Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customer demographics, and regions. 
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -238,7 +293,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    * Individual Category: tops,blazer,coats etc.
 
 
-# 7) ChatGPT App Reviews :
+# 8) ChatGPT App Reviews :
 
 * **Objective**: To analyze ChatGPT app reviews, providing insights into user feedback, identifying key issues, and tracking trends related to user satisfaction over time. This project will help improve app features and user experience by examining common themes and sentiments expressed by users in their reviews.
 
@@ -266,7 +321,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    *  Breakdown of reviews by different app features (Prompt,content).
 
 
-# 8) Healthcare Analysis :
+# 9) Healthcare Analysis :
 
 * **Objective :** The Healthcare Analysis Dashboard is designed to provide an insightful view into patient demographics, doctor performance, and medical conditions. 
 This dynamic dashboard, developed using Power BI or Google Looker Studio, helps healthcare administrators and professionals to track patient data, hospital performance, and key metrics across multiple dimensions such as gender, age group, and medical conditions. 
@@ -300,7 +355,7 @@ The goal is to enable data-driven decisions to improve healthcare services and m
   * Monitor KPIs for an overall snapshot.
   * Explore visualizations for detailed insights.
 
-# 9) Spotify Music :
+# 10) Spotify Music :
 
 * **Objective** :
     The objective of this project is to provide a comprehensive music analytics dashboard using data from Spotify. 
