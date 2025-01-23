@@ -8,7 +8,7 @@
 ![Pizza Place Sales_page-0001](https://github.com/user-attachments/assets/37023c08-b5a0-48a8-a180-a5e11e6f3372)
 
 * **Features:**
-* Key Metrics: Display total pizzas sold, total sales, average sales, and pizza categories.
+  * Key Metrics: Display total pizzas sold, total sales, average sales, and pizza categories.
   * Category Insights: Pie chart for sales distribution by category (Classic, Supreme, Chicken, Veggie).
   * Time Analysis: Sales trends by month, quarter, and time of day (morning, afternoon, evening, night).
   * Best Sellers: Highlight top-selling pizzas with revenue figures.
