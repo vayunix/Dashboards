@@ -62,6 +62,29 @@
       * Sales by Quarter: Shows quarterly sales revenue distribution.
       * Product Category Sales: Displays the highest-selling product categories in descending order.
 
+* **Power BI order dashboard Image:**
+![Brazzil-e-commerce_page-0002](https://github.com/user-attachments/assets/d19106d5-dce4-4f8e-974d-95ce236f7bc9)
+
+* **Features:**
+  * **Order Overview:**
+        * Displays total number of orders, delivered orders, shipped orders, and invoiced orders.
+        * Helps track fulfillment efficiency and pending orders.
+  * **Filters:**
+        *  Dropdown filters for city, state, and year allow users to customize data views based on geographic and time-based parameters.
+  
+  * **Order Analysis:**
+        *  Breakdown of orders based on working days (weekday vs. weekend).
+        *  Orders distributed across different quarters of the year.
+  * **Trend Analysis:**
+        * Monthly order trends visualized to show peaks and drops in sales.
+
+  * **Category Performance:**
+        * Identifies product categories generating the highest orders, helping in understanding consumer preferences.
+  
+  * **Navigation Controls:**
+
+        * Options to go to the home page and refresh the data to get updated metrics.
+
 # 2)Pizza Place Sales Dashboard
 * **Objective:** The dashboard's goal is to provide insights into sales performance for a pizza place by analyzing key metrics like total pizzas sold, sales trends, and category-wise distribution. This helps business owners make informed decisions about menu offerings, sales strategies, and time-based promotions.
 
