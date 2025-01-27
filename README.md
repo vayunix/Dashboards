@@ -49,6 +49,19 @@
     * **Category-Based Marketing:**
        * Businesses can identify top-performing product categories and allocate resources accordingly.
 
+* **Visualizations:**
+    * **Numeric KPI Cards:**
+      * Highlight key metrics such as total products, total sales, average sales, and total sellers.
+    * **Line Chart (Sales by Month):**
+      * Tracks monthly sales fluctuations, revealing peak and low-performing months.
+    * **Donut Charts:**
+      * Sales by Working Days: Illustrates sales distribution between weekdays and weekends.
+      * Sales by Time Period: Visualizes sales contributions across different times of the day.
+
+* **Bar Charts:**
+      * Sales by Quarter: Shows quarterly sales revenue distribution.
+      * Product Category Sales: Displays the highest-selling product categories in descending order.
+
 # 2)Pizza Place Sales Dashboard
 * **Objective:** The dashboard's goal is to provide insights into sales performance for a pizza place by analyzing key metrics like total pizzas sold, sales trends, and category-wise distribution. This helps business owners make informed decisions about menu offerings, sales strategies, and time-based promotions.
 
