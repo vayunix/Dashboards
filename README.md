@@ -8,46 +8,46 @@
 ![Brazzil-e-commerce_page-0001](https://github.com/user-attachments/assets/99449e3e-8e86-40e6-8696-da6a372556b3)
 
 * **Features:**
- * **KPI Cards:**
+   * **KPI Cards:**
 
-   * Total Products: Displays the total number of products listed.
-   * Total Sales: Total sales revenue generated.
-   * Avg Sales: Average sales value.
-   * Total Sellers: Total number of sellers on the platform.
+     * Total Products: Displays the total number of products listed.
+     * Total Sales: Total sales revenue generated.
+     * Avg Sales: Average sales value.
+     * Total Sellers: Total number of sellers on the platform.
 
- * **Filters:**
-   * Dropdowns for filtering data by City, State, and Year.
+   * **Filters:**
+     * Dropdowns for filtering data by City, State, and Year.
  
- * **Sales Analysis:**
-   * Sales by Working Days: Differentiates sales on weekdays vs. weekends using a donut chart.
-   * Sales by Time Period: A donut chart showing sales distribution across time periods (Afternoon, Morning, and Early Morning).
-   * Sales by Quarter: A horizontal bar chart comparing sales performance by quarters.
+   * **Sales Analysis:**
+     * Sales by Working Days: Differentiates sales on weekdays vs. weekends using a donut chart.
+     * Sales by Time Period: A donut chart showing sales distribution across time periods (Afternoon, Morning, and Early Morning).
+     * Sales by Quarter: A horizontal bar chart comparing sales performance by quarters.
 
-* **Trends:**
-   * Sales by Month: A line chart visualizing monthly sales trends over the year.
+  * **Trends:**
+     * Sales by Month: A line chart visualizing monthly sales trends over the year.
 
-* **Product Performance:**
-   * Product Category Sales: A horizontal bar chart ranking product categories by sales revenue.
+  * **Product Performance:**
+     * Product Category Sales: A horizontal bar chart ranking product categories by sales revenue.
 
-* **Interactivity:**
-   * Buttons for refreshing data and navigating orders.
+  * **Interactivity:**
+     * Buttons for refreshing data and navigating orders.
 
 * **Usage:**
-* **Business Performance Monitoring:**
- * Helps stakeholders track overall sales performance and seller contribution to revenue.
- * Assists in identifying trends and patterns across different periods.
+    * **Business Performance Monitoring:**
+       * Helps stakeholders track overall sales performance and seller contribution to revenue.
+       * Assists in identifying trends and patterns across different periods.
 
-* **Sales Strategy Optimization:**
- * Enables decision-makers to adjust marketing and inventory strategies based on time-based and category performance insights.
+    * **Sales Strategy Optimization:**
+       * Enables decision-makers to adjust marketing and inventory strategies based on time-based and category performance insights.
 
-* **Operational Planning:**
- * Provides insights into high-sales periods, guiding staffing and logistics planning.
+    * **Operational Planning:**
+       * Provides insights into high-sales periods, guiding staffing and logistics planning.
 
-* **Regional Sales Insights:**
- * The city and state filters help analyze regional sales performance, aiding in targeted marketing efforts.
+    * **Regional Sales Insights:**
+       * The city and state filters help analyze regional sales performance, aiding in targeted marketing efforts.
 
-* **Category-Based Marketing:**
-  * Businesses can identify top-performing product categories and allocate resources accordingly.
+    * **Category-Based Marketing:**
+       * Businesses can identify top-performing product categories and allocate resources accordingly.
 
 # 2)Pizza Place Sales Dashboard
 * **Objective:** The dashboard's goal is to provide insights into sales performance for a pizza place by analyzing key metrics like total pizzas sold, sales trends, and category-wise distribution. This helps business owners make informed decisions about menu offerings, sales strategies, and time-based promotions.
