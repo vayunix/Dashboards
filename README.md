@@ -100,6 +100,22 @@
   * **Regional Analysis:**
     * Filters for city and state help analyze performance across different locations.
 
+* **Visualizations:**
+  * **Key Metrics Tiles:**
+    * Large numerical representations of total orders, delivered orders, shipped orders, and invoiced orders.
+  
+  * **Line Chart (Orders by Month):**
+    * Monthly trend showcasing fluctuations in order volume across the year.
+  
+  * **Donut Chart (Orders by Working Days):**
+    * Displays the proportion of orders placed on weekdays vs. weekends.
+
+  * **Bar Chart (Orders by Quarter):**
+    * Compares order volume across four quarters of the year.
+
+  * **Horizontal Bar Chart (Category Performance):**
+    * Shows top-performing product categories with respective order counts.
+
 
 # 2)Pizza Place Sales Dashboard
 * **Objective:** The dashboard's goal is to provide insights into sales performance for a pizza place by analyzing key metrics like total pizzas sold, sales trends, and category-wise distribution. This helps business owners make informed decisions about menu offerings, sales strategies, and time-based promotions.
