@@ -58,7 +58,7 @@
       * Sales by Working Days: Illustrates sales distribution between weekdays and weekends.
       * Sales by Time Period: Visualizes sales contributions across different times of the day.
 
-* **Bar Charts:**
+    * **Bar Charts:**
       * Sales by Quarter: Shows quarterly sales revenue distribution.
       * Product Category Sales: Displays the highest-selling product categories in descending order.
 
