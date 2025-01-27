@@ -84,6 +84,23 @@
    * **Navigation Controls:**
         * Options to go to the home page and refresh the data to get updated metrics.
 
+* **Usage:**
+  * **Business Insights:**
+    * Helps business managers track order fulfillment rates and identify potential issues in logistics and invoicing.
+ 
+  * **Sales Performance Tracking:**
+    * Allows sales teams to analyze trends across months and quarters to forecast demand.
+  
+  * **Category Optimization:**
+    * Enables marketing and inventory teams to focus on high-performing product categories.
+  
+  * **Operational Decision-Making:**
+    * Provides data-driven insights to optimize warehouse operations and improve delivery times.
+  
+  * **Regional Analysis:**
+    * Filters for city and state help analyze performance across different locations.
+
+
 # 2)Pizza Place Sales Dashboard
 * **Objective:** The dashboard's goal is to provide insights into sales performance for a pizza place by analyzing key metrics like total pizzas sold, sales trends, and category-wise distribution. This helps business owners make informed decisions about menu offerings, sales strategies, and time-based promotions.
 
