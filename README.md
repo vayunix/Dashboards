@@ -47,6 +47,22 @@
   * **Comparative Analysis:**
     * Quarter-over-quarter percentage changes in sales help assess business growth and performance over time.
 
+
+* **Visualizations:**
+ * **KPI Cards:**
+      * Display key sales figures like total sales, average sales, product categories, and total products.
+
+ * **Line Chart:**
+      * Tracks monthly sales performance, highlighting fluctuations and peak sales periods.
+
+ * **Pie Charts:**
+     * Sales by Time Period: Breaks down revenue distribution across different times of the day.
+     * Sales by Working Days: Compares sales between weekdays and weekends.
+
+ * **Bar Charts:**
+     * Top-Selling Products: Displays highest-revenue-generating products.
+     * Quarterly Sales & Growth: Shows sales by quarter along with percentage changes for better comparative analysis.
+
 # 2)E-commerce sales and order Dashboard Analysis:
 * **objective:** The primary objective of this dashboard is to provide a comprehensive overview of the sales performance for an e-commerce platform, offering key insights into total sales, products, sellers, and sales trends over time. It is designed to help stakeholders monitor order performance, identify trends, and make data-driven decisions by highlighting essential metrics such as total orders, shipped and delivered orders, and invoiced amounts. The dashboard facilitates better logistics, sales forecasting, and operational efficiency while enabling actionable insights into sales patterns, product categories, and regional performance.
 
