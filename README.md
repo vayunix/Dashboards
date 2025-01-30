@@ -10,25 +10,25 @@
 
 * **Features:**
     * **Key Metrics Display:**
-     * Total Sales : Shows overall revenue generated.
-     * Average Sales : Represents the average sales value per transaction.
-     * Total Categories : Displays the number of product categories.
-     * Total Products : Indicates the variety of products available.
+        * Total Sales : Shows overall revenue generated.
+        * Average Sales : Represents the average sales value per transaction.
+        * Total Categories : Displays the number of product categories.
+        * Total Products : Indicates the variety of products available.
 
-  * **Sales Analysis:**
-    * Sales by Time Period: Pie chart showing sales distribution across morning, afternoon, and evening.
-    * Sales by Working Days: Comparison of weekday vs. weekend sales.
-    * Sales by Month: Line chart tracking monthly revenue trends.
+     * **Sales Analysis:**
+       * Sales by Time Period: Pie chart showing sales distribution across morning, afternoon, and evening.
+       * Sales by Working Days: Comparison of weekday vs. weekend sales.
+       * Sales by Month: Line chart tracking monthly revenue trends.
 
-  * **Product Performance:**
-    * Top-Selling Products: Highlights best-selling items such as brewed black tea, herbal tea, and gourmet brewed coffee.
-    * Quarterly Sales Performance: Displays sales by quarter with quarter-over-quarter percentage changes.
+     * **Product Performance:**
+       * Top-Selling Products: Highlights best-selling items such as brewed black tea, herbal tea, and gourmet brewed coffee.
+       * Quarterly Sales Performance: Displays sales by quarter with quarter-over-quarter percentage changes.
 
-  * **Filtering Options:**
-    * Users can filter data by Quarter, Location, and Category to refine their analysis.
+     * **Filtering Options:**
+       * Users can filter data by Quarter, Location, and Category to refine their analysis.
 
-  * **Refresh Button:**
-    * Allows users to update the dashboard with the latest data.
+     * **Refresh Button:**
+       * Allows users to update the dashboard with the latest data.
 
 
 * **Usage:**
