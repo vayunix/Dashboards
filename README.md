@@ -30,6 +30,23 @@
   * **Refresh Button:**
     * Allows users to update the dashboard with the latest data.
 
+
+* **Usage:**
+  * **Sales Performance Tracking:**
+    * Helps business owners and managers monitor overall sales and average sales per transaction.
+
+  * **Product Demand Analysis:**
+    * Identifies which products generate the highest revenue, aiding in inventory and marketing strategies.
+
+  * **Time-Based Sales Insights:**
+    * Shows how sales vary across different times of the day and different days of the week, helping with staffing and operational planning.
+
+  * **Trend Analysis:**
+    * Sales trends by month and quarter help in forecasting and making informed decisions about promotions or new product introductions.
+
+  * **Comparative Analysis:**
+    * Quarter-over-quarter percentage changes in sales help assess business growth and performance over time.
+
 # 2)E-commerce sales and order Dashboard Analysis:
 * **objective:** The primary objective of this dashboard is to provide a comprehensive overview of the sales performance for an e-commerce platform, offering key insights into total sales, products, sellers, and sales trends over time. It is designed to help stakeholders monitor order performance, identify trends, and make data-driven decisions by highlighting essential metrics such as total orders, shipped and delivered orders, and invoiced amounts. The dashboard facilitates better logistics, sales forecasting, and operational efficiency while enabling actionable insights into sales patterns, product categories, and regional performance.
 
