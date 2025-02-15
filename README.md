@@ -286,6 +286,13 @@
   * **Real-Time Data Refresh:** 
     * A refresh button to update the dashboard dynamically.
 
+* **Usage:**
+   * **Tracking customer reviews and ratings for Samsung products.**
+   * **Identifying trends in customer satisfaction over time.**
+   * **Understanding which product categories generate the most reviews.**
+   * **Analyzing the impact of different issue types (price, product, service) on ratings.**
+   * **Providing insights for improving product quality and customer experience.**
+
 # 6) Amazon Shopping App Reviews
 * **Objective:** The primary goal of this dashboard is to analyze user reviews of the Amazon Shopping App to derive meaningful insights. It aims to Understand user feedback trends.
   Identify the most common review themes.Evaluate app performance across different versions and user types.Provide actionable insights for improving the user experience and addressing user concerns.
