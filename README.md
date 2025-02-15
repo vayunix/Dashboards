@@ -274,17 +274,17 @@
 * **Features:**
 
   * **User-Friendly KPI Cards:** 
-               * Quick insights into key performance metrics.
+     * Quick insights into key performance metrics.
   * **Interactive Filters:** 
-               * Dropdown selection for filtering by year.
+     * Dropdown selection for filtering by year.
   * **Visual Trend Analysis:** 
-               * Line chart for monthly review trends.
+     * Line chart for monthly review trends.
   * **Customer Sentiment Analysis:** 
-               * Breakdown of rating distribution by issue type and category.
+     * Breakdown of rating distribution by issue type and category.
   * **Top-Performing Products:** 
-               * Bar charts showcasing the most-reviewed products.
+    * Bar charts showcasing the most-reviewed products.
   * **Real-Time Data Refresh:** 
-               *  A refresh button to update the dashboard dynamically.
+    * A refresh button to update the dashboard dynamically.
 
 # 6) Amazon Shopping App Reviews
 * **Objective:** The primary goal of this dashboard is to analyze user reviews of the Amazon Shopping App to derive meaningful insights. It aims to Understand user feedback trends.
