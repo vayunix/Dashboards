@@ -265,7 +265,22 @@
     * Refresh button to load the latest stock data seamlessly.
 
 
-# 5) Amazon Shopping App Reviews
+# 5) Samsung Customer Reviews
+* **Objective:** Samsung Customer Reviews Dashboard provides a visual representation of customer feedback, product ratings, and reviews over time. It helps businesses analyze trends in customer satisfaction, identify top-performing products, and understand key factors                   influencing ratings.
+
+* **Power BI dashboard Image :**
+![Samsung Customer Reviews_page-0001](https://github.com/user-attachments/assets/d2f75e0f-7767-47cb-affe-d18afc90e0b3)
+
+* **Features:**
+
+      * User-Friendly KPI Cards: Quick insights into key performance metrics.
+      * Interactive Filters: Dropdown selection for filtering by year.
+      * Visual Trend Analysis: Line chart for monthly review trends.
+      * Customer Sentiment Analysis: Breakdown of rating distribution by issue type and category.
+      * Top-Performing Products: Bar charts showcasing the most-reviewed products.
+      * Real-Time Data Refresh: A refresh button to update the dashboard dynamically.
+
+# 6) Amazon Shopping App Reviews
 * **Objective:** The primary goal of this dashboard is to analyze user reviews of the Amazon Shopping App to derive meaningful insights. It aims to Understand user feedback trends.
   Identify the most common review themes.Evaluate app performance across different versions and user types.Provide actionable insights for improving the user experience and addressing user concerns.
 
@@ -336,7 +351,7 @@
       * Update dashboard data dynamically.
 
 
-# 6) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
+# 7) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
 * **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision-makers at Zepto get a deeper sense of distribution, availability by category, and pricing trends.
 
 * **Power BI dashboard Image :**
@@ -366,7 +381,7 @@
   * Company Price Tree Map: A tree map that shows the relative pricing of products by different companies.
 
 
-# 7) Indeed Analytics Dashboard:
+# 8) Indeed Analytics Dashboard:
 
 * **Objective:** Indeed Job Analytics Dashboard allows users to analyze job listings data provided by Indeed. The dashboard features important stats such as total jobs, total companies, and average pay. The tool also breaks down job postings by the company posting, type of jobs, location and types of companies that are hiring which helps in recognizing patterns in hires, salary spreads and best employers on each city.
 
@@ -401,7 +416,7 @@
   * City Salary Bar Chart: Shows the average salary distribution by city.
 
 
-# 8) Ajio Fashion Store
+# 9) Ajio Fashion Store
 
 * **Objective**: Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customdemographics, colors and Brands.
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -433,7 +448,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 * **Deep Dive into the Data**: Drill-through features allow for a detailed analysis of fashion sales by categories. This helps you pinpoint which products resonate with customers during different seasons and plan inventory accordingly.
 
 
- # 9) Myntra Fashion Store
+ # 10) Myntra Fashion Store
 
 * **Objective:** Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customer demographics, and regions. 
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -467,7 +482,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    * Individual Category: tops,blazer,coats etc.
 
 
-# 10) ChatGPT App Reviews :
+# 11) ChatGPT App Reviews :
 
 * **Objective**: To analyze ChatGPT app reviews, providing insights into user feedback, identifying key issues, and tracking trends related to user satisfaction over time. This project will help improve app features and user experience by examining common themes and sentiments expressed by users in their reviews.
 
@@ -495,7 +510,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    *  Breakdown of reviews by different app features (Prompt,content).
 
 
-# 11) Healthcare Analysis :
+# 12) Healthcare Analysis :
 
 * **Objective :** The Healthcare Analysis Dashboard is designed to provide an insightful view into patient demographics, doctor performance, and medical conditions. 
 This dynamic dashboard, developed using Power BI or Google Looker Studio, helps healthcare administrators and professionals to track patient data, hospital performance, and key metrics across multiple dimensions such as gender, age group, and medical conditions. 
@@ -529,7 +544,7 @@ The goal is to enable data-driven decisions to improve healthcare services and m
   * Monitor KPIs for an overall snapshot.
   * Explore visualizations for detailed insights.
 
-# 12) Spotify Music :
+# 13) Spotify Music :
 
 * **Objective** :
     The objective of this project is to provide a comprehensive music analytics dashboard using data from Spotify. 
