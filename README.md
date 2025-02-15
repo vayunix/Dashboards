@@ -293,6 +293,30 @@
    * **Analyzing the impact of different issue types (price, product, service) on ratings.**
    * **Providing insights for improving product quality and customer experience.**
 
+
+* **Visualizations**
+   * **KPI Cards:**
+      * Total Reviews: Displays the total number of customer reviews received.
+      * Total Customers: Number of unique customers who left reviews.
+      * Total Products: Number of products reviewed.
+      * Average Rating: Overall average customer rating.
+
+   * **Filters & Interactivity:**
+      * Year Dropdown: Allows users to filter data by year.
+      * Refresh Button: Updates the dashboard with selected filters.
+
+   * **Donut Charts (Rating Analysis):**
+      * Average Rating by Issue Type: Breakdown of ratings based on factors like price, product quality, and service.
+      * Average Rating by Category: Shows the rating distribution across different product categories (Fridge, Washing Machine, Wearables).
+
+   * **Bar Charts:**
+      * Reviews by Category: Displays the number of reviews per product category (Mobile, TV, Audio, Fridge).
+      * Which Product Generates the Highest Reviews? Highlights the top-reviewed Samsung products.
+
+   * **Line Chart:**
+      * Reviews by Month: Tracks the number of reviews received each month to identify trends and seasonal variations.
+
+
 # 6) Amazon Shopping App Reviews
 * **Objective:** The primary goal of this dashboard is to analyze user reviews of the Amazon Shopping App to derive meaningful insights. It aims to Understand user feedback trends.
   Identify the most common review themes.Evaluate app performance across different versions and user types.Provide actionable insights for improving the user experience and addressing user concerns.
