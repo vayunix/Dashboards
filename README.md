@@ -83,26 +83,26 @@
 
 * **Visualizations:**
    * **KPI Cards:**
-         * Display key figures like Total Bookings, Total Booking Value, Average Booking Value, Total Distance, and Average Trip Time.
+     * Display key figures like Total Bookings, Total Booking Value, Average Booking Value, Total Distance, and Average Trip Time.
 
    * **Line Charts:**
-         * Bookings by Time Period: Shows ride demand fluctuations throughout the day.
-         * Bookings by Day of the Week: Analyzes weekday vs. weekend trends.
+     * Bookings by Time Period: Shows ride demand fluctuations throughout the day.
+     * Bookings by Day of the Week: Analyzes weekday vs. weekend trends.
 
 
    * **Pie Charts:**
 
-         * Bookings by Payment Type: Breaks down revenue by payment methods.
-         * Day vs. Night Rides: Compares the share of daytime vs. nighttime trips.
+     * Bookings by Payment Type: Breaks down revenue by payment methods.
+     * Day vs. Night Rides: Compares the share of daytime vs. nighttime trips.
 
    * **Bar Charts:**
 
-         * Top Booking Locations: Displays the most popular pickup/drop-off locations.
-         * Total Bookings by Vehicle Type: Compares demand for different Uber services.
+     * Top Booking Locations: Displays the most popular pickup/drop-off locations.
+     * Total Bookings by Vehicle Type: Compares demand for different Uber services.
 
 
   * **Heatmap (Matrix Grid):**
-         * Bookings by Hour & Day: Highlights peak hours and demand distribution.
+     * Bookings by Hour & Day: Highlights peak hours and demand distribution.
 
 
 
