@@ -60,6 +60,26 @@
 
          * Allows users to update the dashboard with the latest Uber trip data.
 
+* **Usage:**
+      * **Ride Demand Analysis:**
+            * Helps operations teams understand ride demand across different times, days, and locations.
+
+
+      * **Driver Allocation & Surge Pricing:**
+            * Identifies peak hours and hotspots to optimize driver deployment and apply dynamic pricing.
+
+
+      * **Revenue & Performance Tracking:**
+            * Enables business managers to track revenue trends and compare different Uber services.
+
+
+      * **Customer Behavior Analysis:**
+            * Understands customer preferences for vehicle types, payment methods, and ride timings.
+
+
+      * **Strategic Decision-Making:**
+            * Data-driven insights help in pricing strategies, marketing campaigns, and fleet management.
+
 
 
 
