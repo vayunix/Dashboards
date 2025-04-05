@@ -1,6 +1,6 @@
 **Contact Email:** vayunix@gmail.com                                                                                                                                                                          
 
-# 1) Toyota Used Car Market Trends & ML Price Prediction
+# 1) Toyota Used Car Market Trends And Price Prediction Using Machine Learning Models
 
 * **objective:** This dashboard provides a machine learning-driven analysis of used Toyota car prices. It compares actual vs. predicted prices, reveals insights based on fuel type, transmission, engine size, and year, and helps understand how these factors influence pricing. The dashboard supports decision-making for dealers, buyers, and data scientists involved in price modeling and vehicle analytics.
 
