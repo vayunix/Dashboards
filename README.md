@@ -48,6 +48,20 @@
       * **Refresh Button:** Updates the dashboard visuals to reflect the latest selections or changes in the data.
 
 
+* **Usage:**
+   * **Price Prediction Validation:**
+         * Compare actual prices to ML-predicted prices for each model, identifying potential over- or under-valuations.
+
+   * **Inventory Pricing Strategy:**
+         * Helps dealers set competitive pricing based on predicted trends across fuel types, transmission types, and engine size.
+
+   * **Trend Monitoring:**
+         * Reveals how predicted prices change over time (by year), aiding in forecasting and resale value estimation.
+
+   * **Model & Feature Impact Analysis:**
+         * Understand how different vehicle specs (fuel, transmission, engine size) affect predicted prices.
+
+
 
 # 2) Uber Trip Analysis Dashboard
 
