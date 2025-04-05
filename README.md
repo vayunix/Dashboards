@@ -13,10 +13,10 @@
 * **Features:**
    
   * **KPI Metrics:**
-     * Total Models: Displays the total number of unique Toyota car models available for analysis.
-     * Total Fuel Types: Shows the diversity of fuel types (Petrol, Diesel, Hybrid, etc.) included in the dataset.
-     * Average Price : Represents the actual average market price across all Toyota used cars.
-     * Average Predicted Price : Highlights the average price predicted by the Machine Learning model, offering a benchmark for comparison.
+     * **Total Models:** Displays the total number of unique Toyota car models available for analysis.
+     * **Total Fuel Types:** Shows the diversity of fuel types (Petrol, Diesel, Hybrid, etc.) included in the dataset.
+     * **Average Price :** Represents the actual average market price across all Toyota used cars.
+     * **Average Predicted Price :** Highlights the average price predicted by the Machine Learning model, offering a benchmark for comparison.
 
 
 
