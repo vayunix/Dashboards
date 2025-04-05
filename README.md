@@ -11,7 +11,8 @@
 * **View Google colab link here for machine learning model:** https://colab.research.google.com/drive/1VmfshFrq85IC4AbDAkpv3Qq9nwC6tJ0g?usp=sharing
 
 * **Features:**
-   * ** KPI Metrics:**
+   
+  * **KPI Metrics:**
      * Total Models: Displays the total number of unique Toyota car models available for analysis.
      * Total Fuel Types: Shows the diversity of fuel types (Petrol, Diesel, Hybrid, etc.) included in the dataset.
      * Average Price : Represents the actual average market price across all Toyota used cars.
