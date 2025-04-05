@@ -18,6 +18,35 @@
      * **Average Price :** Represents the actual average market price across all Toyota used cars.
      * **Average Predicted Price :** Highlights the average price predicted by the Machine Learning model, offering a benchmark for comparison.
 
+   * **Predicted Price by Year (Line Chart):**
+      * Shows ML-predicted total price trends from 2014 to 2019.
+      * Peak in 2017 ($24.2M) indicates high-value vehicle demand or better pricing models.
+      
+   * **Price vs Predicted Price by Car Model (Bar Chart):**
+      * Compares actual vs. predicted price for top models like Yaris, Aygo, Auris, C-HR, RAV4.
+      * Useful for spotting over/underpriced models.
+
+   * **Predicted Price by Fuel Type(Donut Chart):**
+      * Displays how predicted prices are distributed across fuel types (Petrol, Hybrid, Diesel).
+      * Useful for understanding how fuel preference impacts predicted value.
+   
+   * **Predicted Price by Transmission Type(Pie Chart):**
+      * Shows predicted price contributions by transmission type (Automatic, Manual, Semi-Auto).
+      * Highlights the transmission types most associated with higher predicted prices.
+
+   * **Average of Predicted Price by Engine Size (Scatter Plot):**
+      * Higher engine sizes generally associate with higher predicted prices.
+      * Helps understand pricing tiers based on engine performance.
+
+
+   * **Filtering Options:**
+      * **Fuel Type Filter:** Lets users narrow down analysis based on fuel type.
+      * **Transmission Filter:** Allows selection of transmission category for focused insights.
+
+   
+   * **Refresh Function:**
+      * **Refresh Button:** Updates the dashboard visuals to reflect the latest selections or changes in the data.
+
 
 
 # 2) Uber Trip Analysis Dashboard
