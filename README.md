@@ -63,9 +63,9 @@
     * **Confusion Matrix Breakdown (Table + Text Insight):**
       * Displays actual vs predicted churn outcomes by the ML model.
       * **Highlights:**
-                * 381 customers correctly predicted as churned.
-                * 1,394 customers correctly predicted as not churned.
-                * 92.20% accuracy achieved using a 50% prediction threshold.
+        * 381 customers correctly predicted as churned.
+        * 1,394 customers correctly predicted as not churned.
+        * 92.20% accuracy achieved using a 50% prediction threshold.
 
 
 
