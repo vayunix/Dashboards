@@ -79,6 +79,25 @@
 
 
 
+ * **Usage:**
+    * **Business Stakeholders:**
+      * **Understand Why Customers Leave:** Leverage churn reason analytics to make informed business decisions.
+      * **Revenue Impact Evaluation:** Identify how churn is affecting the bottom line across different service segments.
+      * **Plan Targeted Retention Campaigns:** Use ML-based predictions to target at-risk customers before they churn.
+
+
+    * **Data Analysts & Scientists:**
+      * **Model Evaluation:** Monitor churn predictions and align with business KPIs.
+      * **Drill-Down Exploration:** Use filters to segment data and uncover hidden churn trends.
+      * **Feature Insights:** Gain understanding of what drives churn using top predictive factors.
+
+
+    * **Marketing & CX Teams:**
+      * **Tailored Messaging:** Understand churn categories to personalize customer communication.
+      * **Customer Segmentation:** Segment audience by churn likelihood, region, or demographics for focused campaigns.
+
+
+
 
 
 # 2) Toyota Used Car Market Trends and Price Prediction using ML
