@@ -47,6 +47,14 @@
       * Ranks cities based on customer churn volume.
       * Useful for geographically targeted churn-reduction strategies.
 
+  * **Filtering Options:**
+      * **Offer Type Filter:** Drill down based on promotional plans used.
+      * **Payment Method Filter:** Filter churn metrics by the customer's preferred payment mode.
+
+
+  * **Refresh Functionality:**
+      *  **Refresh Button:** Instantly updates all visualizations based on the latest filter selections.
+
 
 
 
