@@ -55,7 +55,7 @@
   * **Refresh Functionality:**
       *  **Refresh Button:** Instantly updates all visualizations based on the latest filter selections.
 
-* **Power BI Prediction dashboaed Image:**
+* **Power BI Prediction dashboard Image:**
 
 ![Telecom-churn analysis Dashboard_page-0002](https://github.com/user-attachments/assets/e13a0586-0f87-4339-b3c9-fb4a8546fc54)
 
@@ -66,6 +66,16 @@
         * 381 customers correctly predicted as churned.
         * 1,394 customers correctly predicted as not churned.
         * 92.20% accuracy achieved using a 50% prediction threshold.
+
+    * **Churn Probability Distribution (Column Chart):**
+      * Shows how many customers fall into each predicted churn probability bin (e.g., 50–59%, 90–100%).
+
+      * Helps identify how confident the model is in its predictions.
+
+
+    * **Tenure vs Total Charges (Scatter Plot):**
+      * Reveals the relationship between how long a customer has stayed and their total billing.
+      * Shows a strong positive correlation — longer tenure leads to higher total charges.
 
 
 
