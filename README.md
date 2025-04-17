@@ -59,6 +59,24 @@
 
 
 
+* **Usage:**
+  * **Hotel Managers & Owners:**
+    * Use this dashboard to monitor booking trends, identify peak seasons, and analyze customer demographics for better business planning.
+
+
+  * **Revenue & Sales Teams:**
+    * Leverage insights on market segments, distribution channels, and lead time to optimize pricing strategies and boost revenue.
+
+  * **Marketing Teams:**
+    * Identify guest types and preferred booking channels to design personalized marketing campaigns and promotional offers.
+
+  * **Operations & Planning:**
+    * Analyze cancellation trends and reserved vs. assigned room types to improve operational efficiency and reduce guest dissatisfaction.
+
+  * **Customer Experience Teams:**
+    * Understand preferences across city and resort hotel guests, improve services based on guest type analysis, and reduce churn.
+
+
 
 # 2) Telecom Churn Analysis using Machine learning model
 
