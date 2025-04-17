@@ -2,7 +2,7 @@
 
 # 1) Hotel Booking Analysis Dashboard
 
-* **objective:**The Hotel Booking Analysis Dashboard is a Power BI tool that provides quick insights into booking trends, cancellations, guest types, and seasonal patterns. It helps hotel managers and analysts make informed decisions on marketing, room allocation, and customer experience by analyzing bookings across hotel types, distribution channels, and time periods.
+* **objective:** The Hotel Booking Analysis Dashboard is a Power BI tool that provides quick insights into booking trends, cancellations, guest types, and seasonal patterns. It helps hotel managers and analysts make informed decisions on marketing, room allocation, and customer experience by analyzing bookings across hotel types, distribution channels, and time periods.
 
 * **Power BI dashboard Image:**
 
