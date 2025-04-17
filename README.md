@@ -19,6 +19,45 @@
     * **Total Distribution Channels:** Total number of booking channels used (e.g., TA/TO, Direct, Corporate).
 
 
+  * **Hotel Type Breakdown (Donut Chart):**
+    * Differentiates booking distribution between City Hotel and Resort Hotel.
+    
+  * **Booking by Distribution Channel (Pie Chart):**
+    * Highlights which distribution channels (TA/TO, Direct, Corporate, GDS) are most utilized.
+    * Aids in understanding and optimizing sales and partnership efforts.
+
+  * **Booking vs Cancellation by Season (Matrix):**
+    * Compares the number of bookings and cancellations across different seasons.
+    * Helps in identifying peak and off-peak performance trends.
+
+  * **Booking and Cancellation by Market Segment (Bar Chart):**
+    * Visualizes how different market segments contribute to bookings and cancellations.
+    * Useful for segment-specific marketing and strategy planning.
+
+  * **Reserved Room Type Trends (Column Chart):**
+    * Displays the volume of bookings per reserved room type (A, B, C, etc.).
+    * Useful for analyzing customer room preferences and planning inventory.
+
+  * **Guest Type Distribution (Donut Chart):**
+    * Visualizes the composition of guests across three categories: Adults, Families with Children, and Families with Babies.
+    * Helps identify the dominant customer type, allowing for targeted marketing strategies and tailored services.
+
+  * **Monthly Booking & Cancellation Trends (Area Chart):**
+    * Presents month-wise trends for both bookings and cancellations.
+    * Useful for operational planning and monthly performance comparison.
+
+  * **Quarterly Booking & Cancellation Trends (Line Chart):**
+    * Tracks bookings and cancellations across Q1, Q2, Q3, and Q4.
+    * Helps detect patterns and adjust business strategies seasonally.
+
+  * **Interactive Filters:**
+    * **Arrival Year Filter:** Enables users to analyze booking data for a specific year.
+    * **Country Filter:** Allows segmentation of bookings by customer origin for deeper geographical insights.
+  
+  *  **Refresh Functionality:**
+      *  **Refresh Button:** Instantly updates all visualizations based on the latest filter selections.
+
+
 
 
 # 2) Telecom Churn Analysis using Machine learning model
