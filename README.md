@@ -11,35 +11,35 @@
 
 
 * **Features:**
- * **Key Performance Indicators (KPIs):**
-   * **No of Patients:** Displays the total number of patients visiting the emergency room.
-   * **Average Wait Time:** Shows the average time patients wait before receiving care.
-   * **Patient Satisfaction Score:** Measures patients' satisfaction with the services received.
-   * **Number of Patients Referred:** Indicates how many patients were referred to specialists or other departments.
+   * **Key Performance Indicators (KPIs):**
+     * **No of Patients:** Displays the total number of patients visiting the emergency room.
+     * **Average Wait Time:** Shows the average time patients wait before receiving care.
+     * **Patient Satisfaction Score:** Measures patients' satisfaction with the services received.
+     * **Number of Patients Referred:** Indicates how many patients were referred to specialists or other departments.
 
- * **Admission Status (Matrix Chart):**
-   * Shows the percentage of patients admitted versus not admitted.
+   * **Admission Status (Matrix Chart):**
+     * Shows the percentage of patients admitted versus not admitted.
  
- * **% of Patients Seen Within 30 Minutes (Donut Chart):**
-   * Tracks how many patients were attended to within the critical 30-minute window.
+   * **% of Patients Seen Within 30 Minutes (Donut Chart):**
+     * Tracks how many patients were attended to within the critical 30-minute window.
 
- * **Patients by Age Group (Column Chart):**
-   * Analyzes the number of patients across different age brackets.
+   * **Patients by Age Group (Column Chart):**
+     * Analyzes the number of patients across different age brackets.
 
- * **Patients by Race (Horizontal Bar Chart):**
-   * Displays patient distribution across different racial backgrounds.
+   * **Patients by Race (Horizontal Bar Chart):**
+     * Displays patient distribution across different racial backgrounds.
 
- * **Patients by Department Referral (Bar Chart):**
-   * Lists the departments patients were referred to (e.g., General Practice, Orthopedics).
+   * **Patients by Department Referral (Bar Chart):**
+     * Lists the departments patients were referred to (e.g., General Practice, Orthopedics).
 
- * **Patients by Day and Hour (Bar + Heatmap Chart):**
-   * Identifies peak days and hours for emergency visits, helping with staff scheduling and resource planning.
+   * **Patients by Day and Hour (Bar + Heatmap Chart):**
+     * Identifies peak days and hours for emergency visits, helping with staff scheduling and resource planning.
 
- * **Monthly View:**
-   * Focuses on one month at a time, showing detailed performance.
+   * **Monthly View:**
+     * Focuses on one month at a time, showing detailed performance.
 
- * **Consolidated View:**
-   * Aggregates performance across a selected date range, typically a full year or custom dates.
+   * **Consolidated View:**
+     * Aggregates performance across a selected date range, typically a full year or custom dates.
 
 # 2) Hotel Booking Analysis Dashboard
 
