@@ -2,7 +2,7 @@
 
 # 1) Hospital Emergency Room Dashboard
 
-* **objective:**The Hospital Emergency Room Dashboard is an interactive Power BI dashboard designed to monitor patient inflow, demographics, department referrals, and service performance. It provides real-time insights into key metrics such as total admissions, patient satisfaction, gender and age distribution, and time-based visit patterns. Using intuitive visualizations like donut charts, bar graphs, and heatmaps, it enables hospital management to optimize resource allocation, enhance patient care, and identify bottlenecks. Monthly and consolidated performance views support both operational tracking and long-term strategic planning.
+* **objective:** The Hospital Emergency Room Dashboard is an interactive Power BI dashboard designed to monitor patient inflow, demographics, department referrals, and service performance. It provides real-time insights into key metrics such as total admissions, patient satisfaction, gender and age distribution, and time-based visit patterns. Using intuitive visualizations like donut charts, bar graphs, and heatmaps, it enables hospital management to optimize resource allocation, enhance patient care, and identify bottlenecks. Monthly and consolidated performance views support both operational tracking and long-term strategic planning.
 
 
 * **Power BI dashboard Image:**
