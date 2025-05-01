@@ -166,7 +166,7 @@
 
 # 3) Awesome Chocolate Sales Analysis Dashboard
 
-* **objective:**The Awesome Chocolate Sales Analysis Dashboard is a dynamic Power BI solution built to track and analyze chocolate sales performance across countries, product categories, teams, and time periods. With interactive visuals and KPIs, it provides a comprehensive snapshot of total sales, costs, profit, shipments, and units sold. This dashboard empowers stakeholders to identify high-performing salespersons, profitable products, and regional trends to drive strategic decision-making.
+* **objective:** The Awesome Chocolate Sales Analysis Dashboard is a dynamic Power BI solution built to track and analyze chocolate sales performance across countries, product categories, teams, and time periods. With interactive visuals and KPIs, it provides a comprehensive snapshot of total sales, costs, profit, shipments, and units sold. This dashboard empowers stakeholders to identify high-performing salespersons, profitable products, and regional trends to drive strategic decision-making.
 
 * **Power BI dashboard Image:**
 
