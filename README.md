@@ -212,7 +212,20 @@
     * Switch between years for direct comparison of KPIs and performance trends.
     * Supports year-over-year growth analysis.
 
+* **Usage:**
+  * **Business Stakeholders:**
+    * **Track Revenue and Profitability:** Evaluate overall performance using KPIs like total sales, profit, and shipments.
+    * **Optimize Regional Strategies:** Use country filters to analyze market trends across different regions (e.g., India, USA).
+    * **Improve Product Line Decisions:** Analyze which chocolate products yield the most profit to focus on bestsellers.
 
+  * **Sales Managers:**
+    * **Monitor Sales Team Performance:** Identify high-performing teams and salespersons for rewards and training.
+    * **Set Data-Driven Targets:** Leverage monthly and quarterly breakdowns to set achievable goals.
+
+
+  * **Marketing Teams:**
+    * **Identify High-Demand Products:** Focus campaigns around top-performing items like Organic Choco Syrup.
+    * **Tailor Promotions:** Use data insights to design offers based on regions or low-performing quarters.
 
 # 4) Hospital Emergency Room Dashboard
 
