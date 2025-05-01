@@ -1,145 +1,6 @@
 **Contact Email:** vayunix@gmail.com                                                                                                                                                                          
 
-# 1) Hospital Emergency Room Dashboard
-
-* **objective:** The Hospital Emergency Room Dashboard is an interactive Power BI dashboard designed to monitor patient inflow, demographics, department referrals, and service performance. It provides real-time insights into key metrics such as total admissions, patient satisfaction, gender and age distribution, and time-based visit patterns. Using intuitive visualizations like donut charts, bar graphs, and heatmaps, it enables hospital management to optimize resource allocation, enhance patient care, and identify bottlenecks. Monthly and consolidated performance views support both operational tracking and long-term strategic planning.
-
-
-* **Power BI dashboard Image:**
-
-![Hospital Management_page-0001](https://github.com/user-attachments/assets/8d83733a-7ce2-4122-95aa-c170cae668a4)
-
-
-* **Features:**
-   * **Key Performance Indicators (KPIs):**
-     * **No of Patients:** Displays the total number of patients visiting the emergency room.
-     * **Average Wait Time:** Shows the average time patients wait before receiving care.
-     * **Patient Satisfaction Score:** Measures patients' satisfaction with the services received.
-     * **Number of Patients Referred:** Indicates how many patients were referred to specialists or other departments.
-
-   * **Admission Status (Matrix Chart):**
-     * Shows the percentage of patients admitted versus not admitted.
- 
-   * **% of Patients Seen Within 30 Minutes (Donut Chart):**
-     * Tracks how many patients were attended to within the critical 30-minute window.
-
-   * **Patients by Age Group (Column Chart):**
-     * Analyzes the number of patients across different age brackets.
-
-   * **Patients by Race (Horizontal Bar Chart):**
-     * Displays patient distribution across different racial backgrounds.
-
-   * **Patients by Department Referral (Bar Chart):**
-     * Lists the departments patients were referred to (e.g., General Practice, Orthopedics).
-
-   * **Patients by Day and Hour (Bar + Heatmap Chart):**
-     * Identifies peak days and hours for emergency visits, helping with staff scheduling and resource planning.
-
-   * **Monthly View:**
-     * Focuses on one month at a time, showing detailed performance.
-
-   * **Consolidated View:**
-     * Aggregates performance across a selected date range, typically a full year or custom dates.
-
-
-* **Usage:**
-  * **Hospital Administration:**
-      * Monitor real-time emergency room performance.
-      * Make informed decisions for resource allocation and staffing based on peak times.
-
-  * **Strategic Planning:**
-      * Identify trends in patient demographics, peak hours, and admission rates.
-      * Improve patient experience and reduce wait times based on insights.
-
-  * **Operational Management:**
-      * Quickly identify departments that require more support based on referral numbers.
-      * Track satisfaction scores over time to ensure quality patient care.
-
-  * **Data-Driven Decision Making:**
-      * Understand the reasons behind patient satisfaction or dissatisfaction.
-      * Prioritize investments in departments, facilities, or training based on analytical data.
-
-
-
-# 2) Hotel Booking Analysis Dashboard
-
-* **objective:** The Hotel Booking Analysis Dashboard is a Power BI tool that provides quick insights into booking trends, cancellations, guest types, and seasonal patterns. It helps hotel managers and analysts make informed decisions on marketing, room allocation, and customer experience by analyzing bookings across hotel types, distribution channels, and time periods.
-
-* **Power BI dashboard Image:**
-
-![Hotel Booking Analysis_page-0001](https://github.com/user-attachments/assets/e966e010-e755-4b2c-83b3-4e883765dbc4)
-
-
-* **Features:**
-  * **Key Performance Indicators (KPIs):**
-    * **Total Bookings:** Displays the total number of hotel reservations made.
-    * **Total Cancellations:** Shows the count of canceled bookings for cancellation trend analysis.
-    * **Total Market Segments:** Displays the number of distinct market segments in the data.
-    * **Total Seasons:** Indicates the unique seasons (Spring, Summer, Rainy, Winter) represented.
-    * **Total Room Types:** Shows how many different room types were reserved (e.g., A, B, C…).
-    * **Total Distribution Channels:** Total number of booking channels used (e.g., TA/TO, Direct, Corporate).
-
-
-  * **Hotel Type Breakdown (Donut Chart):**
-    * Differentiates booking distribution between City Hotel and Resort Hotel.
-    
-  * **Booking by Distribution Channel (Pie Chart):**
-    * Highlights which distribution channels (TA/TO, Direct, Corporate, GDS) are most utilized.
-    * Aids in understanding and optimizing sales and partnership efforts.
-
-  * **Booking vs Cancellation by Season (Matrix):**
-    * Compares the number of bookings and cancellations across different seasons.
-    * Helps in identifying peak and off-peak performance trends.
-
-  * **Booking and Cancellation by Market Segment (Bar Chart):**
-    * Visualizes how different market segments contribute to bookings and cancellations.
-    * Useful for segment-specific marketing and strategy planning.
-
-  * **Reserved Room Type Trends (Column Chart):**
-    * Displays the volume of bookings per reserved room type (A, B, C, etc.).
-    * Useful for analyzing customer room preferences and planning inventory.
-
-  * **Guest Type Distribution (Donut Chart):**
-    * Visualizes the composition of guests across three categories: Adults, Families with Children, and Families with Babies.
-    * Helps identify the dominant customer type, allowing for targeted marketing strategies and tailored services.
-
-  * **Monthly Booking & Cancellation Trends (Area Chart):**
-    * Presents month-wise trends for both bookings and cancellations.
-    * Useful for operational planning and monthly performance comparison.
-
-  * **Quarterly Booking & Cancellation Trends (Line Chart):**
-    * Tracks bookings and cancellations across Q1, Q2, Q3, and Q4.
-    * Helps detect patterns and adjust business strategies seasonally.
-
-  * **Interactive Filters:**
-    * **Arrival Year Filter:** Enables users to analyze booking data for a specific year.
-    * **Country Filter:** Allows segmentation of bookings by customer origin for deeper geographical insights.
-  
-  *  **Refresh Functionality:**
-      *  **Refresh Button:** Instantly updates all visualizations based on the latest filter selections.
-
-
-
-* **Usage:**
-  * **Hotel Managers & Owners:**
-    * Use this dashboard to monitor booking trends, identify peak seasons, and analyze customer demographics for better business planning.
-
-
-  * **Revenue & Sales Teams:**
-    * Leverage insights on market segments, distribution channels, and lead time to optimize pricing strategies and boost revenue.
-
-  * **Marketing Teams:**
-    * Identify guest types and preferred booking channels to design personalized marketing campaigns and promotional offers.
-
-  * **Operations & Planning:**
-    * Analyze cancellation trends and reserved vs. assigned room types to improve operational efficiency and reduce guest dissatisfaction.
-
-  * **Customer Experience Teams:**
-    * Understand preferences across city and resort hotel guests, improve services based on guest type analysis, and reduce churn.
-
-
-
-# 3) Telecom Churn Analysis using Machine learning model
+# 1) Telecom Churn Analysis using Machine learning model
 
 * **objective:** This Telecom Churn Analysis Dashboard leverages machine learning to predict customer churn and uncover key factors influencing it. Using classification models, it identifies high-risk customers, enabling telecom companies to take proactive retention actions. The dashboard combines data insights and ML predictions in an interactive visual format to support smarter decision-making.
 
@@ -239,7 +100,7 @@
 
 
 
-# 4) Toyota Used Car Market Trends and Price Prediction using ML
+# 2) Toyota Used Car Market Trends and Price Prediction using ML
 
 * **objective:** This dashboard provides a machine learning-driven analysis of used Toyota car prices. It compares actual vs. predicted prices, reveals insights based on fuel type, transmission, engine size, and year, and helps understand how these factors influence pricing. The dashboard supports decision-making for dealers, buyers, and data scientists involved in price modeling and vehicle analytics.
 
@@ -302,7 +163,213 @@
 
 
 
-# 5) Uber Trip Analysis Dashboard
+
+# 3) Awesome Chocolate Sales Analysis Dashboard
+
+* **objective:** The Awesome Chocolate Sales Analysis Dashboard is a dynamic Power BI solution built to track and analyze chocolate sales performance across countries, product categories, teams, and time periods. With interactive visuals and KPIs, it provides a comprehensive snapshot of total sales, costs, profit, shipments, and units sold. This dashboard empowers stakeholders to identify high-performing salespersons, profitable products, and regional trends to drive strategic decision-making.
+
+* **Power BI dashboard Image:**
+
+![Awesome Chocolates_page-0001](https://github.com/user-attachments/assets/13fc3314-877b-4d83-926f-7e845ca3f9f3)
+
+* **Features:**
+  * **Key Performance Indicators (KPIs):**
+    * **Total Sales:** Shows overall revenue generated from all chocolate products.
+    * **Total Boxes:** Indicates the total quantity of boxes sold.
+    * **Total Costs:** Displays operational and production costs.
+    * **Total Shipments:** Number of shipment batches fulfilled.
+    * **Total Profit:** Net profit derived after subtracting costs from sales.
+
+  * **Sales by Category (Donut Chart):**
+    * Breaks down total sales into Bars, Bites, and Other categories.
+    * Helps identify the best-performing product category.
+
+  * **Sales by Sales Team (Column Chart):**
+    * Compares team-wise performance (e.g., Delish, Juices, Yummies).
+    * Useful for incentivizing high-performing teams and addressing gaps.
+
+  * **Sales by Quarter (Funnel Chart):**
+    * Tracks quarterly revenue trends across all four quarters.
+    * Enables comparison of seasonal performance and planning inventory.
+
+  * **Monthly Sales vs Profit (Horizontal Bar Chart):**
+    * Displays monthly revenue alongside profit.
+    * Provides a clear view of profit margins over time for better forecasting.
+
+  * **Sales and Profit Analysis by Product (Matrix Chart):**
+    * Lists top products by sales and profit (e.g., Organic Choco Syrup, Manuka Honey Choco).
+    * Helps optimize product mix and marketing strategy.
+
+  * **Salesperson Performance (Leaderboard with Images):**
+    * Shows each salesperson’s sales and profit.
+    * Identifies top and underperforming individuals visually.
+
+  * **Region-Based Filtering (Sidebar Menu):**
+    * Select countries like India, USA, UK, etc., to filter visuals by region.
+    * Enables localized sales and marketing insights.
+
+  * **Year Toggle (2023 vs 2024):**
+    * Switch between years for direct comparison of KPIs and performance trends.
+    * Supports year-over-year growth analysis.
+
+* **Usage:**
+  * **Business Stakeholders:**
+    * **Track Revenue and Profitability:** Evaluate overall performance using KPIs like total sales, profit, and shipments.
+    * **Optimize Regional Strategies:** Use country filters to analyze market trends across different regions (e.g., India, USA).
+    * **Improve Product Line Decisions:** Analyze which chocolate products yield the most profit to focus on bestsellers.
+
+  * **Sales Managers:**
+    * **Monitor Sales Team Performance:** Identify high-performing teams and salespersons for rewards and training.
+    * **Set Data-Driven Targets:** Leverage monthly and quarterly breakdowns to set achievable goals.
+
+
+  * **Marketing Teams:**
+    * **Identify High-Demand Products:** Focus campaigns around top-performing items like Organic Choco Syrup.
+    * **Tailor Promotions:** Use data insights to design offers based on regions or low-performing quarters.
+
+# 4) Hospital Emergency Room Dashboard
+
+* **objective:** The Hospital Emergency Room Dashboard is an interactive Power BI dashboard designed to monitor patient inflow, demographics, department referrals, and service performance. It provides real-time insights into key metrics such as total admissions, patient satisfaction, gender and age distribution, and time-based visit patterns. Using intuitive visualizations like donut charts, bar graphs, and heatmaps, it enables hospital management to optimize resource allocation, enhance patient care, and identify bottlenecks. Monthly and consolidated performance views support both operational tracking and long-term strategic planning.
+
+
+* **Power BI dashboard Image:**
+
+![Hospital Management_page-0001](https://github.com/user-attachments/assets/8d83733a-7ce2-4122-95aa-c170cae668a4)
+
+
+* **Features:**
+   * **Key Performance Indicators (KPIs):**
+     * **No of Patients:** Displays the total number of patients visiting the emergency room.
+     * **Average Wait Time:** Shows the average time patients wait before receiving care.
+     * **Patient Satisfaction Score:** Measures patients' satisfaction with the services received.
+     * **Number of Patients Referred:** Indicates how many patients were referred to specialists or other departments.
+
+   * **Admission Status (Matrix Chart):**
+     * Shows the percentage of patients admitted versus not admitted.
+ 
+   * **% of Patients Seen Within 30 Minutes (Donut Chart):**
+     * Tracks how many patients were attended to within the critical 30-minute window.
+
+   * **Patients by Age Group (Column Chart):**
+     * Analyzes the number of patients across different age brackets.
+
+   * **Patients by Race (Horizontal Bar Chart):**
+     * Displays patient distribution across different racial backgrounds.
+
+   * **Patients by Department Referral (Bar Chart):**
+     * Lists the departments patients were referred to (e.g., General Practice, Orthopedics).
+
+   * **Patients by Day and Hour (Bar + Heatmap Chart):**
+     * Identifies peak days and hours for emergency visits, helping with staff scheduling and resource planning.
+
+   * **Monthly View:**
+     * Focuses on one month at a time, showing detailed performance.
+
+   * **Consolidated View:**
+     * Aggregates performance across a selected date range, typically a full year or custom dates.
+
+
+* **Usage:**
+  * **Hospital Administration:**
+      * Monitor real-time emergency room performance.
+      * Make informed decisions for resource allocation and staffing based on peak times.
+
+  * **Strategic Planning:**
+      * Identify trends in patient demographics, peak hours, and admission rates.
+      * Improve patient experience and reduce wait times based on insights.
+
+  * **Operational Management:**
+      * Quickly identify departments that require more support based on referral numbers.
+      * Track satisfaction scores over time to ensure quality patient care.
+
+  * **Data-Driven Decision Making:**
+      * Understand the reasons behind patient satisfaction or dissatisfaction.
+      * Prioritize investments in departments, facilities, or training based on analytical data.
+
+
+
+# 5) Hotel Booking Analysis Dashboard
+
+* **objective:** The Hotel Booking Analysis Dashboard is a Power BI tool that provides quick insights into booking trends, cancellations, guest types, and seasonal patterns. It helps hotel managers and analysts make informed decisions on marketing, room allocation, and customer experience by analyzing bookings across hotel types, distribution channels, and time periods.
+
+* **Power BI dashboard Image:**
+
+![Hotel Booking Analysis_page-0001](https://github.com/user-attachments/assets/e966e010-e755-4b2c-83b3-4e883765dbc4)
+
+
+* **Features:**
+  * **Key Performance Indicators (KPIs):**
+    * **Total Bookings:** Displays the total number of hotel reservations made.
+    * **Total Cancellations:** Shows the count of canceled bookings for cancellation trend analysis.
+    * **Total Market Segments:** Displays the number of distinct market segments in the data.
+    * **Total Seasons:** Indicates the unique seasons (Spring, Summer, Rainy, Winter) represented.
+    * **Total Room Types:** Shows how many different room types were reserved (e.g., A, B, C…).
+    * **Total Distribution Channels:** Total number of booking channels used (e.g., TA/TO, Direct, Corporate).
+
+
+  * **Hotel Type Breakdown (Donut Chart):**
+    * Differentiates booking distribution between City Hotel and Resort Hotel.
+    
+  * **Booking by Distribution Channel (Pie Chart):**
+    * Highlights which distribution channels (TA/TO, Direct, Corporate, GDS) are most utilized.
+    * Aids in understanding and optimizing sales and partnership efforts.
+
+  * **Booking vs Cancellation by Season (Matrix):**
+    * Compares the number of bookings and cancellations across different seasons.
+    * Helps in identifying peak and off-peak performance trends.
+
+  * **Booking and Cancellation by Market Segment (Bar Chart):**
+    * Visualizes how different market segments contribute to bookings and cancellations.
+    * Useful for segment-specific marketing and strategy planning.
+
+  * **Reserved Room Type Trends (Column Chart):**
+    * Displays the volume of bookings per reserved room type (A, B, C, etc.).
+    * Useful for analyzing customer room preferences and planning inventory.
+
+  * **Guest Type Distribution (Donut Chart):**
+    * Visualizes the composition of guests across three categories: Adults, Families with Children, and Families with Babies.
+    * Helps identify the dominant customer type, allowing for targeted marketing strategies and tailored services.
+
+  * **Monthly Booking & Cancellation Trends (Area Chart):**
+    * Presents month-wise trends for both bookings and cancellations.
+    * Useful for operational planning and monthly performance comparison.
+
+  * **Quarterly Booking & Cancellation Trends (Line Chart):**
+    * Tracks bookings and cancellations across Q1, Q2, Q3, and Q4.
+    * Helps detect patterns and adjust business strategies seasonally.
+
+  * **Interactive Filters:**
+    * **Arrival Year Filter:** Enables users to analyze booking data for a specific year.
+    * **Country Filter:** Allows segmentation of bookings by customer origin for deeper geographical insights.
+  
+  *  **Refresh Functionality:**
+      *  **Refresh Button:** Instantly updates all visualizations based on the latest filter selections.
+
+
+
+* **Usage:**
+  * **Hotel Managers & Owners:**
+    * Use this dashboard to monitor booking trends, identify peak seasons, and analyze customer demographics for better business planning.
+
+
+  * **Revenue & Sales Teams:**
+    * Leverage insights on market segments, distribution channels, and lead time to optimize pricing strategies and boost revenue.
+
+  * **Marketing Teams:**
+    * Identify guest types and preferred booking channels to design personalized marketing campaigns and promotional offers.
+
+  * **Operations & Planning:**
+    * Analyze cancellation trends and reserved vs. assigned room types to improve operational efficiency and reduce guest dissatisfaction.
+
+  * **Customer Experience Teams:**
+    * Understand preferences across city and resort hotel guests, improve services based on guest type analysis, and reduce churn.
+
+
+
+
+
+
+# 6) Uber Trip Analysis Dashboard
 
 * **objective:** The Uber Trip Analysis Dashboard is an interactive Power BI visualization designed to provide deep insights into Uber trips, helping businesses optimize operations, pricing strategies, and driver availability. This dashboard enables stakeholders to analyze booking trends, payment preferences, trip distances, time-based booking patterns, and popular locations.
 
@@ -409,7 +476,7 @@
 
 
 
-# 6) Coffee Shop Sales Analysis:
+# 7) Coffee Shop Sales Analysis:
 * **objective:** The Coffee Shop Sales Dashboard provides a detailed analysis of sales performance across different product categories, time periods, and locations. It helps business owners and managers track total sales, sales trends, and the most profitable products. With interactive filtering options, users can analyze data across different quarters, locations, and product categories to make informed decisions.
 
 * **Power BI sales dashboard Image :**
@@ -471,7 +538,7 @@
          * Top-Selling Products: Displays highest-revenue-generating products.
          * Quarterly Sales & Growth: Shows sales by quarter along with percentage changes for better comparative analysis.
 
-# 7)E-commerce sales and order Dashboard Analysis:
+# 8)E-commerce sales and order Dashboard Analysis:
 * **objective:** The primary objective of this dashboard is to provide a comprehensive overview of the sales performance for an e-commerce platform, offering key insights into total sales, products, sellers, and sales trends over time. It is designed to help stakeholders monitor order performance, identify trends, and make data-driven decisions by highlighting essential metrics such as total orders, shipped and delivered orders, and invoiced amounts. The dashboard facilitates better logistics, sales forecasting, and operational efficiency while enabling actionable insights into sales patterns, product categories, and regional performance.
 
 * **Power BI sales dashboard Image :**
@@ -587,7 +654,7 @@
     * Shows top-performing product categories with respective order counts.
 
 
-# 8)Pizza Place Sales Dashboard
+# 9)Pizza Place Sales Dashboard
 * **Objective:** The dashboard's goal is to provide insights into sales performance for a pizza place by analyzing key metrics like total pizzas sold, sales trends, and category-wise distribution. This helps business owners make informed decisions about menu offerings, sales strategies, and time-based promotions.
 
 * **Power BI dashboard Image :**
@@ -624,7 +691,7 @@
 
 
 
-# 9) Stock Analysis Dashboard
+# 10) Stock Analysis Dashboard
 * **Objective:** The Adani Stock Dashboard provides a comprehensive analysis of stock performance across companies within the Adani Group. It offers key insights into stock highs, lows, openings, closings, and volumes, helping stakeholders track and compare company performance efficiently. The dashboard is interactive, user-friendly, and designed for quick data interpretation.
 
 * **Power BI dashboard Image :**
@@ -673,7 +740,7 @@
     * Refresh button to load the latest stock data seamlessly.
 
 
-# 10) Samsung Customer Reviews
+# 11) Samsung Customer Reviews
 * **Objective:** Samsung Customer Reviews Dashboard provides a visual representation of customer feedback, product ratings, and reviews over time. It helps businesses analyze trends in customer satisfaction, identify top-performing products, and understand key factors                   influencing ratings.
 
 * **Power BI dashboard Image :**
@@ -725,7 +792,7 @@
       * Reviews by Month: Tracks the number of reviews received each month to identify trends and seasonal variations.
 
 
-# 11) Amazon Shopping App Reviews
+# 12) Amazon Shopping App Reviews
 * **Objective:** The primary goal of this dashboard is to analyze user reviews of the Amazon Shopping App to derive meaningful insights. It aims to Understand user feedback trends.
   Identify the most common review themes.Evaluate app performance across different versions and user types.Provide actionable insights for improving the user experience and addressing user concerns.
 
@@ -796,7 +863,7 @@
       * Update dashboard data dynamically.
 
 
-# 12) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
+# 13) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
 * **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision-makers at Zepto get a deeper sense of distribution, availability by category, and pricing trends.
 
 * **Power BI dashboard Image :**
@@ -826,7 +893,7 @@
   * Company Price Tree Map: A tree map that shows the relative pricing of products by different companies.
 
 
-# 13) Indeed Analytics Dashboard:
+# 14) Indeed Analytics Dashboard:
 
 * **Objective:** Indeed Job Analytics Dashboard allows users to analyze job listings data provided by Indeed. The dashboard features important stats such as total jobs, total companies, and average pay. The tool also breaks down job postings by the company posting, type of jobs, location and types of companies that are hiring which helps in recognizing patterns in hires, salary spreads and best employers on each city.
 
@@ -861,7 +928,7 @@
   * City Salary Bar Chart: Shows the average salary distribution by city.
 
 
-# 14) Ajio Fashion Store
+# 15) Ajio Fashion Store
 
 * **Objective**: Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customdemographics, colors and Brands.
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -893,7 +960,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 * **Deep Dive into the Data**: Drill-through features allow for a detailed analysis of fashion sales by categories. This helps you pinpoint which products resonate with customers during different seasons and plan inventory accordingly.
 
 
- # 15) Myntra Fashion Store
+ # 16) Myntra Fashion Store
 
 * **Objective:** Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customer demographics, and regions. 
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -927,7 +994,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    * Individual Category: tops,blazer,coats etc.
 
 
-# 16) ChatGPT App Reviews :
+# 17) ChatGPT App Reviews :
 
 * **Objective**: To analyze ChatGPT app reviews, providing insights into user feedback, identifying key issues, and tracking trends related to user satisfaction over time. This project will help improve app features and user experience by examining common themes and sentiments expressed by users in their reviews.
 
@@ -955,7 +1022,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    *  Breakdown of reviews by different app features (Prompt,content).
 
 
-# 17) Healthcare Analysis :
+# 18) Healthcare Analysis :
 
 * **Objective :** The Healthcare Analysis Dashboard is designed to provide an insightful view into patient demographics, doctor performance, and medical conditions. 
 This dynamic dashboard, developed using Power BI or Google Looker Studio, helps healthcare administrators and professionals to track patient data, hospital performance, and key metrics across multiple dimensions such as gender, age group, and medical conditions. 
@@ -989,7 +1056,7 @@ The goal is to enable data-driven decisions to improve healthcare services and m
   * Monitor KPIs for an overall snapshot.
   * Explore visualizations for detailed insights.
 
-# 18) Spotify Music :
+# 19) Spotify Music :
 
 * **Objective** :
     The objective of this project is to provide a comprehensive music analytics dashboard using data from Spotify. 
