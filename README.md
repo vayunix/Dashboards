@@ -216,8 +216,58 @@
 
  
 
+# 4) Job Post Analysis Dashboard
 
-# 4) Awesome Chocolate Sales Analysis Dashboard
+* **objective:** The Job Post Analysis Dashboard provides an interactive and comprehensive view of job market data across sectors, cities, and time periods. It enables organizations, analysts, and HR professionals to uncover patterns in job demand, salary trends, and geographic preferences to make data-driven hiring and workforce planning decisions.
+
+
+* **Power BI dashboard Image:**
+
+![Job Post_page-0001](https://github.com/user-attachments/assets/a3e30780-007a-438b-bf94-1b7becd41264)
+
+* **Features:**
+  * **Key Performance Indicators (KPIs):**
+    * **Total Jobs:** Displays the total number of job postings.
+    * **Total Salaries:** Combined salary value offered across all jobs.
+    * **Average Salary:** Average annual salary across postings.
+    * **Total Cities:** Number of cities with active job listings.
+    * **Total Roles:** Total unique job roles identified.
+    * **Total Job Types:** Number of distinct job types (e.g., Full-Time, Part-Time).
+
+  * **Job Preference by Gender (Donut Chart):**
+    * Visual breakdown of job preferences categorized by Male, Female, and Both genders.
+
+  * **Jobs by City (Tree Map):**
+    * Highlights cities with the highest job volumes like London, New York, and Mumbai for quick geographic comparison.
+
+  * **Jobs by Month (Area Chart):**
+    * Displays monthly job trends to identify seasonal hiring peaks and troughs.
+
+  * **Jobs by Quarter (Funnel Chart):**
+    * Quarterly view to understand hiring fluctuations throughout the year.
+
+  * **Jobs by Sector (Bar Chart):**
+    * Analyze top-performing sectors such as Financial Services, Energy, and Retail by total job count.
+
+  * **Interactive Year Filters:**
+    * Filter all visuals by selecting the year (2021, 2022, 2023) for comparative analysis over time.
+
+  * **Drillthrough on City:**
+    * **Clicking on a city in the Tree Map opens a detailed report page showing:**
+      * **Total Jobs by Industry:** Breakdown of job counts across different industries in the selected city.
+      * **Total Jobs by Role:** Insights into the most in-demand roles within that city.
+      * **Jobs and Salary Analysis by Work Type:** Comparison of job counts and salary ranges by work types (e.g., Full-Time, Contract).
+      * **Jobs and Salary Analysis by Job Portal:** Evaluate job distribution and salary averages based on posting platforms (e.g., LinkedIn, Indeed).
+      * **Total Jobs by Month:** Monthly trend of job postings specific to the selected city, highlighting seasonality or hiring surges.
+
+
+ * **Usage:**
+    * **Business and HR Stakeholders:**
+      *  **Hiring Strategy:** Identify cities and sectors with high job demand to focus recruitment.
+      *  **Salary Benchmarking:** Evaluate average salaries and total salary spend by year or location.
+      *  **Diversity Initiatives:** Analyze job preferences to tailor inclusive hiring policies.
+
+# 5) Awesome Chocolate Sales Analysis Dashboard
 
 * **objective:** The Awesome Chocolate Sales Analysis Dashboard is a dynamic Power BI solution built to track and analyze chocolate sales performance across countries, product categories, teams, and time periods. With interactive visuals and KPIs, it provides a comprehensive snapshot of total sales, costs, profit, shipments, and units sold. This dashboard empowers stakeholders to identify high-performing salespersons, profitable products, and regional trends to drive strategic decision-making.
 
@@ -280,7 +330,7 @@
     * **Identify High-Demand Products:** Focus campaigns around top-performing items like Organic Choco Syrup.
     * **Tailor Promotions:** Use data insights to design offers based on regions or low-performing quarters.
 
-# 5) Hospital Emergency Room Dashboard
+# 6) Hospital Emergency Room Dashboard
 
 * **objective:** The Hospital Emergency Room Dashboard is an interactive Power BI dashboard designed to monitor patient inflow, demographics, department referrals, and service performance. It provides real-time insights into key metrics such as total admissions, patient satisfaction, gender and age distribution, and time-based visit patterns. Using intuitive visualizations like donut charts, bar graphs, and heatmaps, it enables hospital management to optimize resource allocation, enhance patient care, and identify bottlenecks. Monthly and consolidated performance views support both operational tracking and long-term strategic planning.
 
@@ -341,7 +391,7 @@
 
 
 
-# 6) Hotel Booking Analysis Dashboard
+# 7) Hotel Booking Analysis Dashboard
 
 * **objective:** The Hotel Booking Analysis Dashboard is a Power BI tool that provides quick insights into booking trends, cancellations, guest types, and seasonal patterns. It helps hotel managers and analysts make informed decisions on marketing, room allocation, and customer experience by analyzing bookings across hotel types, distribution channels, and time periods.
 
@@ -422,7 +472,7 @@
 
 
 
-# 7) Uber Trip Analysis Dashboard
+# 8) Uber Trip Analysis Dashboard
 
 * **objective:** The Uber Trip Analysis Dashboard is an interactive Power BI visualization designed to provide deep insights into Uber trips, helping businesses optimize operations, pricing strategies, and driver availability. This dashboard enables stakeholders to analyze booking trends, payment preferences, trip distances, time-based booking patterns, and popular locations.
 
@@ -529,7 +579,7 @@
 
 
 
-# 8) Coffee Shop Sales Analysis:
+# 9) Coffee Shop Sales Analysis:
 * **objective:** The Coffee Shop Sales Dashboard provides a detailed analysis of sales performance across different product categories, time periods, and locations. It helps business owners and managers track total sales, sales trends, and the most profitable products. With interactive filtering options, users can analyze data across different quarters, locations, and product categories to make informed decisions.
 
 * **Power BI sales dashboard Image :**
@@ -591,7 +641,7 @@
          * Top-Selling Products: Displays highest-revenue-generating products.
          * Quarterly Sales & Growth: Shows sales by quarter along with percentage changes for better comparative analysis.
 
-# 9)E-commerce sales and order Dashboard Analysis:
+# 10)E-commerce sales and order Dashboard Analysis:
 * **objective:** The primary objective of this dashboard is to provide a comprehensive overview of the sales performance for an e-commerce platform, offering key insights into total sales, products, sellers, and sales trends over time. It is designed to help stakeholders monitor order performance, identify trends, and make data-driven decisions by highlighting essential metrics such as total orders, shipped and delivered orders, and invoiced amounts. The dashboard facilitates better logistics, sales forecasting, and operational efficiency while enabling actionable insights into sales patterns, product categories, and regional performance.
 
 * **Power BI sales dashboard Image :**
@@ -707,7 +757,7 @@
     * Shows top-performing product categories with respective order counts.
 
 
-# 10)Pizza Place Sales Dashboard
+# 11)Pizza Place Sales Dashboard
 * **Objective:** The dashboard's goal is to provide insights into sales performance for a pizza place by analyzing key metrics like total pizzas sold, sales trends, and category-wise distribution. This helps business owners make informed decisions about menu offerings, sales strategies, and time-based promotions.
 
 * **Power BI dashboard Image :**
@@ -744,7 +794,7 @@
 
 
 
-# 11) Stock Analysis Dashboard
+# 12) Stock Analysis Dashboard
 * **Objective:** The Adani Stock Dashboard provides a comprehensive analysis of stock performance across companies within the Adani Group. It offers key insights into stock highs, lows, openings, closings, and volumes, helping stakeholders track and compare company performance efficiently. The dashboard is interactive, user-friendly, and designed for quick data interpretation.
 
 * **Power BI dashboard Image :**
@@ -793,7 +843,7 @@
     * Refresh button to load the latest stock data seamlessly.
 
 
-# 12) Samsung Customer Reviews
+# 13) Samsung Customer Reviews
 * **Objective:** Samsung Customer Reviews Dashboard provides a visual representation of customer feedback, product ratings, and reviews over time. It helps businesses analyze trends in customer satisfaction, identify top-performing products, and understand key factors                   influencing ratings.
 
 * **Power BI dashboard Image :**
@@ -845,7 +895,7 @@
       * Reviews by Month: Tracks the number of reviews received each month to identify trends and seasonal variations.
 
 
-# 13) Amazon Shopping App Reviews
+# 14) Amazon Shopping App Reviews
 * **Objective:** The primary goal of this dashboard is to analyze user reviews of the Amazon Shopping App to derive meaningful insights. It aims to Understand user feedback trends.
   Identify the most common review themes.Evaluate app performance across different versions and user types.Provide actionable insights for improving the user experience and addressing user concerns.
 
@@ -916,7 +966,7 @@
       * Update dashboard data dynamically.
 
 
-# 14) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
+# 15) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
 * **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision-makers at Zepto get a deeper sense of distribution, availability by category, and pricing trends.
 
 * **Power BI dashboard Image :**
@@ -946,7 +996,7 @@
   * Company Price Tree Map: A tree map that shows the relative pricing of products by different companies.
 
 
-# 15) Indeed Analytics Dashboard:
+# 16) Indeed Analytics Dashboard:
 
 * **Objective:** Indeed Job Analytics Dashboard allows users to analyze job listings data provided by Indeed. The dashboard features important stats such as total jobs, total companies, and average pay. The tool also breaks down job postings by the company posting, type of jobs, location and types of companies that are hiring which helps in recognizing patterns in hires, salary spreads and best employers on each city.
 
@@ -981,7 +1031,7 @@
   * City Salary Bar Chart: Shows the average salary distribution by city.
 
 
-# 16) Ajio Fashion Store
+# 17) Ajio Fashion Store
 
 * **Objective**: Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customdemographics, colors and Brands.
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -1013,7 +1063,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 * **Deep Dive into the Data**: Drill-through features allow for a detailed analysis of fashion sales by categories. This helps you pinpoint which products resonate with customers during different seasons and plan inventory accordingly.
 
 
- # 17) Myntra Fashion Store
+ # 18) Myntra Fashion Store
 
 * **Objective:** Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customer demographics, and regions. 
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -1047,7 +1097,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    * Individual Category: tops,blazer,coats etc.
 
 
-# 18) ChatGPT App Reviews :
+# 19) ChatGPT App Reviews :
 
 * **Objective**: To analyze ChatGPT app reviews, providing insights into user feedback, identifying key issues, and tracking trends related to user satisfaction over time. This project will help improve app features and user experience by examining common themes and sentiments expressed by users in their reviews.
 
@@ -1075,7 +1125,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    *  Breakdown of reviews by different app features (Prompt,content).
 
 
-# 19) Healthcare Analysis :
+# 20) Healthcare Analysis :
 
 * **Objective :** The Healthcare Analysis Dashboard is designed to provide an insightful view into patient demographics, doctor performance, and medical conditions. 
 This dynamic dashboard, developed using Power BI or Google Looker Studio, helps healthcare administrators and professionals to track patient data, hospital performance, and key metrics across multiple dimensions such as gender, age group, and medical conditions. 
@@ -1109,7 +1159,7 @@ The goal is to enable data-driven decisions to improve healthcare services and m
   * Monitor KPIs for an overall snapshot.
   * Explore visualizations for detailed insights.
 
-# 20) Spotify Music :
+# 21) Spotify Music :
 
 * **Objective** :
     The objective of this project is to provide a comprehensive music analytics dashboard using data from Spotify. 
