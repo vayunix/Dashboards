@@ -11,7 +11,7 @@
 * **View Google colab link here for machine learning model:** https://colab.research.google.com/drive/1zgOnC3U_26AbM7MwoZZ7RSQ02V7nm4zA?usp=sharing
 
 * **Features:**
-   * **Key Performance Indicators (KPIs):**
+  * **Key Performance Indicators (KPIs):**
       * **Total Customers:** Displays the count of all customers in the dataset.
 
       * **Churn Count:** Total number of customers who have discontinued services.
@@ -162,9 +162,62 @@
      * Understand how different vehicle specs (fuel, transmission, engine size) affect predicted prices.
 
 
+# 3) Bike Sales Analysis Dashboard
+
+* **objective:** The Bike Sales Analysis Dashboard offers a visually rich and interactive platform to evaluate key business metrics related to bike sales. This dashboard empowers decision-makers to monitor total revenue, costs, and profit margins across different timeframes, regions, customer age groups, and product categories. With dynamic drillthrough and forecasting features, it delivers both high-level insights and granular data exploration to support strategic planning and operational improvements.
+
+* **Power BI dashboard Image:**
+
+![Bike Sales_page-0001](https://github.com/user-attachments/assets/8e053fd0-d431-427c-a0bb-1933b4dd01ab)
 
 
-# 3) Awesome Chocolate Sales Analysis Dashboard
+* **Features:**
+  * **Key Performance Indicators (KPIs):**
+    * **Total Revenue:** Displays the full revenue generated.
+    * **Total Products:** Count of all unique products sold.
+    * **Total Cost:** Total expenditure across all sales.
+    * **Total Profit:** Net earnings after deducting costs.
+
+  * **Revenue by Quarter (Funnel Chart):**
+    * Quarterly revenue comparison to track performance trends.
+
+  * **Revenue by Customer Age Group (Bar Chart):**
+    * Identify the most valuable age segments (e.g., 25-34).
+
+  * **Revenue by Month (Area Chart):**
+    * Monthly revenue trends highlighting seasonality and peaks.
+
+  * **Revenue by Product Category (Donut Chart):**
+    * Breakdown across Bikes, Accessories, and Clothing.
+
+  * **Revenue by State (Column Chart):**
+    * Geographical performance with top revenue states like California.
+
+  * **Interactive Region Filters:**
+    * Analyze data specifically for regions like Australia, North America, or Western Europe.
+
+  * **Drillthrough on Age Group:**
+    * Click on an age group in the bar chart to explore bike subcategory purchases (e.g., Mountain Bikes, Touring Bikes) made by that specific age group. This helps uncover product preferences by demographic for targeted product development and marketing.
+
+  * **Forecast Tab:**
+    * Predict future sales based on historical trends to aid strategic planning.
+
+* **Usage:**
+   * **Business Stakeholders:**
+      * **Monitor Financial Performance:** Track revenue, costs, and profit over time and by geography.
+      * **Market Strategy Planning:** Focus marketing or inventory efforts based on high-performing states and age groups.
+      * **Product Investment Decisions:** Understand which product categories drive the most value.
+
+   * **Sales & Marketing Teams:**
+      * **Identify High-Performing Months:** Plan campaigns during peak sales periods (e.g., May, December).
+      * **Target Key Demographics:** Leverage age group data to personalize promotions and offerings.
+
+  
+
+ 
+
+
+# 4) Awesome Chocolate Sales Analysis Dashboard
 
 * **objective:** The Awesome Chocolate Sales Analysis Dashboard is a dynamic Power BI solution built to track and analyze chocolate sales performance across countries, product categories, teams, and time periods. With interactive visuals and KPIs, it provides a comprehensive snapshot of total sales, costs, profit, shipments, and units sold. This dashboard empowers stakeholders to identify high-performing salespersons, profitable products, and regional trends to drive strategic decision-making.
 
@@ -227,7 +280,7 @@
     * **Identify High-Demand Products:** Focus campaigns around top-performing items like Organic Choco Syrup.
     * **Tailor Promotions:** Use data insights to design offers based on regions or low-performing quarters.
 
-# 4) Hospital Emergency Room Dashboard
+# 5) Hospital Emergency Room Dashboard
 
 * **objective:** The Hospital Emergency Room Dashboard is an interactive Power BI dashboard designed to monitor patient inflow, demographics, department referrals, and service performance. It provides real-time insights into key metrics such as total admissions, patient satisfaction, gender and age distribution, and time-based visit patterns. Using intuitive visualizations like donut charts, bar graphs, and heatmaps, it enables hospital management to optimize resource allocation, enhance patient care, and identify bottlenecks. Monthly and consolidated performance views support both operational tracking and long-term strategic planning.
 
@@ -288,7 +341,7 @@
 
 
 
-# 5) Hotel Booking Analysis Dashboard
+# 6) Hotel Booking Analysis Dashboard
 
 * **objective:** The Hotel Booking Analysis Dashboard is a Power BI tool that provides quick insights into booking trends, cancellations, guest types, and seasonal patterns. It helps hotel managers and analysts make informed decisions on marketing, room allocation, and customer experience by analyzing bookings across hotel types, distribution channels, and time periods.
 
@@ -369,7 +422,7 @@
 
 
 
-# 6) Uber Trip Analysis Dashboard
+# 7) Uber Trip Analysis Dashboard
 
 * **objective:** The Uber Trip Analysis Dashboard is an interactive Power BI visualization designed to provide deep insights into Uber trips, helping businesses optimize operations, pricing strategies, and driver availability. This dashboard enables stakeholders to analyze booking trends, payment preferences, trip distances, time-based booking patterns, and popular locations.
 
@@ -476,7 +529,7 @@
 
 
 
-# 7) Coffee Shop Sales Analysis:
+# 8) Coffee Shop Sales Analysis:
 * **objective:** The Coffee Shop Sales Dashboard provides a detailed analysis of sales performance across different product categories, time periods, and locations. It helps business owners and managers track total sales, sales trends, and the most profitable products. With interactive filtering options, users can analyze data across different quarters, locations, and product categories to make informed decisions.
 
 * **Power BI sales dashboard Image :**
@@ -538,7 +591,7 @@
          * Top-Selling Products: Displays highest-revenue-generating products.
          * Quarterly Sales & Growth: Shows sales by quarter along with percentage changes for better comparative analysis.
 
-# 8)E-commerce sales and order Dashboard Analysis:
+# 9)E-commerce sales and order Dashboard Analysis:
 * **objective:** The primary objective of this dashboard is to provide a comprehensive overview of the sales performance for an e-commerce platform, offering key insights into total sales, products, sellers, and sales trends over time. It is designed to help stakeholders monitor order performance, identify trends, and make data-driven decisions by highlighting essential metrics such as total orders, shipped and delivered orders, and invoiced amounts. The dashboard facilitates better logistics, sales forecasting, and operational efficiency while enabling actionable insights into sales patterns, product categories, and regional performance.
 
 * **Power BI sales dashboard Image :**
@@ -654,7 +707,7 @@
     * Shows top-performing product categories with respective order counts.
 
 
-# 9)Pizza Place Sales Dashboard
+# 10)Pizza Place Sales Dashboard
 * **Objective:** The dashboard's goal is to provide insights into sales performance for a pizza place by analyzing key metrics like total pizzas sold, sales trends, and category-wise distribution. This helps business owners make informed decisions about menu offerings, sales strategies, and time-based promotions.
 
 * **Power BI dashboard Image :**
@@ -691,7 +744,7 @@
 
 
 
-# 10) Stock Analysis Dashboard
+# 11) Stock Analysis Dashboard
 * **Objective:** The Adani Stock Dashboard provides a comprehensive analysis of stock performance across companies within the Adani Group. It offers key insights into stock highs, lows, openings, closings, and volumes, helping stakeholders track and compare company performance efficiently. The dashboard is interactive, user-friendly, and designed for quick data interpretation.
 
 * **Power BI dashboard Image :**
@@ -740,7 +793,7 @@
     * Refresh button to load the latest stock data seamlessly.
 
 
-# 11) Samsung Customer Reviews
+# 12) Samsung Customer Reviews
 * **Objective:** Samsung Customer Reviews Dashboard provides a visual representation of customer feedback, product ratings, and reviews over time. It helps businesses analyze trends in customer satisfaction, identify top-performing products, and understand key factors                   influencing ratings.
 
 * **Power BI dashboard Image :**
@@ -792,7 +845,7 @@
       * Reviews by Month: Tracks the number of reviews received each month to identify trends and seasonal variations.
 
 
-# 12) Amazon Shopping App Reviews
+# 13) Amazon Shopping App Reviews
 * **Objective:** The primary goal of this dashboard is to analyze user reviews of the Amazon Shopping App to derive meaningful insights. It aims to Understand user feedback trends.
   Identify the most common review themes.Evaluate app performance across different versions and user types.Provide actionable insights for improving the user experience and addressing user concerns.
 
@@ -863,7 +916,7 @@
       * Update dashboard data dynamically.
 
 
-# 13) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
+# 14) Zepto Product Analytics Dashboard                                                                                                                                                                                                                                        
 * **Objective:**  A dashboard that serves as a consolidated view of all Zepto product data Users can get metrics including totals for items, categories, and companies; pricing insights; item distribution by category and brand. This aims to help product managers and decision-makers at Zepto get a deeper sense of distribution, availability by category, and pricing trends.
 
 * **Power BI dashboard Image :**
@@ -893,7 +946,7 @@
   * Company Price Tree Map: A tree map that shows the relative pricing of products by different companies.
 
 
-# 14) Indeed Analytics Dashboard:
+# 15) Indeed Analytics Dashboard:
 
 * **Objective:** Indeed Job Analytics Dashboard allows users to analyze job listings data provided by Indeed. The dashboard features important stats such as total jobs, total companies, and average pay. The tool also breaks down job postings by the company posting, type of jobs, location and types of companies that are hiring which helps in recognizing patterns in hires, salary spreads and best employers on each city.
 
@@ -928,7 +981,7 @@
   * City Salary Bar Chart: Shows the average salary distribution by city.
 
 
-# 15) Ajio Fashion Store
+# 16) Ajio Fashion Store
 
 * **Objective**: Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customdemographics, colors and Brands.
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -960,7 +1013,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
 * **Deep Dive into the Data**: Drill-through features allow for a detailed analysis of fashion sales by categories. This helps you pinpoint which products resonate with customers during different seasons and plan inventory accordingly.
 
 
- # 16) Myntra Fashion Store
+ # 17) Myntra Fashion Store
 
 * **Objective:** Utilize Power BI and Google Looker Studio to create an interactive dashboard that helps track and analyze fashion sales data for different product categories, customer demographics, and regions. 
 This dynamic dashboard will assist in optimizing sales strategy, monitoring customer trends, and identifying growth opportunities within the fashion retail space.
@@ -994,7 +1047,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    * Individual Category: tops,blazer,coats etc.
 
 
-# 17) ChatGPT App Reviews :
+# 18) ChatGPT App Reviews :
 
 * **Objective**: To analyze ChatGPT app reviews, providing insights into user feedback, identifying key issues, and tracking trends related to user satisfaction over time. This project will help improve app features and user experience by examining common themes and sentiments expressed by users in their reviews.
 
@@ -1022,7 +1075,7 @@ This dynamic dashboard will assist in optimizing sales strategy, monitoring cust
    *  Breakdown of reviews by different app features (Prompt,content).
 
 
-# 18) Healthcare Analysis :
+# 19) Healthcare Analysis :
 
 * **Objective :** The Healthcare Analysis Dashboard is designed to provide an insightful view into patient demographics, doctor performance, and medical conditions. 
 This dynamic dashboard, developed using Power BI or Google Looker Studio, helps healthcare administrators and professionals to track patient data, hospital performance, and key metrics across multiple dimensions such as gender, age group, and medical conditions. 
@@ -1056,7 +1109,7 @@ The goal is to enable data-driven decisions to improve healthcare services and m
   * Monitor KPIs for an overall snapshot.
   * Explore visualizations for detailed insights.
 
-# 19) Spotify Music :
+# 20) Spotify Music :
 
 * **Objective** :
     The objective of this project is to provide a comprehensive music analytics dashboard using data from Spotify. 
