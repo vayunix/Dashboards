@@ -227,12 +227,12 @@
 
 * **Features:**
    * **Key Performance Indicators (KPIs):**
-     **Total Jobs:** Displays the total number of job postings.
-     **Total Salaries:** Combined salary value offered across all jobs.
-     **Average Salary:** Average annual salary across postings.
-     **Total Cities:** Number of cities with active job listings.
-     **Total Roles:** Total unique job roles identified.
-     **Total Job Types:** Number of distinct job types (e.g., Full-Time, Part-Time).
+      **Total Jobs:** Displays the total number of job postings.
+      **Total Salaries:** Combined salary value offered across all jobs.
+      **Average Salary:** Average annual salary across postings.
+      **Total Cities:** Number of cities with active job listings.
+      **Total Roles:** Total unique job roles identified.
+      **Total Job Types:** Number of distinct job types (e.g., Full-Time, Part-Time).
 
    * **Job Preference by Gender (Donut Chart):**
      * Visual breakdown of job preferences categorized by Male, Female, and Both genders.
