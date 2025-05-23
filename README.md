@@ -173,10 +173,10 @@
 
 * **Features:**
   * **Key Performance Indicators (KPIs):**
-    * **Total Revenue: Displays the full revenue generated.**
-    * **Total Products: Count of all unique products sold.**
-    * **Total Cost: Total expenditure across all sales.**
-    * **Total Profit: Net earnings after deducting costs.**
+    * **Total Revenue:** Displays the full revenue generated.
+    * **Total Products:** Count of all unique products sold.
+    * **Total Cost:** Total expenditure across all sales.
+    * **Total Profit:** Net earnings after deducting costs.
 
   * **Revenue by Quarter (Funnel Chart):**
     * Quarterly revenue comparison to track performance trends.
@@ -201,6 +201,16 @@
 
   * **Forecast Tab:**
     * Predict future sales based on historical trends to aid strategic planning.
+
+* **Usage:**
+   * **Business Stakeholders:**
+      * **Monitor Financial Performance:** Track revenue, costs, and profit over time and by geography.
+      * **Market Strategy Planning:** Focus marketing or inventory efforts based on high-performing states and age groups.
+      * **Product Investment Decisions:** Understand which product categories drive the most value.
+
+   * **Sales & Marketing Teams:**
+      * **Identify High-Performing Months:** Plan campaigns during peak sales periods (e.g., May, December).
+      * **Target Key Demographics:** Leverage age group data to personalize promotions and offerings.
 
   
 
