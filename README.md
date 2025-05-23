@@ -11,7 +11,7 @@
 * **View Google colab link here for machine learning model:** https://colab.research.google.com/drive/1zgOnC3U_26AbM7MwoZZ7RSQ02V7nm4zA?usp=sharing
 
 * **Features:**
-   * **Key Performance Indicators (KPIs):**
+  * **Key Performance Indicators (KPIs):**
       * **Total Customers:** Displays the count of all customers in the dataset.
 
       * **Churn Count:** Total number of customers who have discontinued services.
@@ -172,35 +172,35 @@
 
 
 * **Features:**
- * **Key Performance Indicators (KPIs):**
-   * **Total Revenue: Displays the full revenue generated.**
-   * **Total Products: Count of all unique products sold.**
-   * **Total Cost: Total expenditure across all sales.**
-   * **Total Profit: Net earnings after deducting costs.**
+  * **Key Performance Indicators (KPIs):**
+    * **Total Revenue: Displays the full revenue generated.**
+    * **Total Products: Count of all unique products sold.**
+    * **Total Cost: Total expenditure across all sales.**
+    * **Total Profit: Net earnings after deducting costs.**
 
- * **Revenue by Quarter (Funnel Chart):**
-   * Quarterly revenue comparison to track performance trends.
+  * **Revenue by Quarter (Funnel Chart):**
+    * Quarterly revenue comparison to track performance trends.
 
- * **Revenue by Customer Age Group (Bar Chart):**
-   * Identify the most valuable age segments (e.g., 25-34).
+  * **Revenue by Customer Age Group (Bar Chart):**
+    * Identify the most valuable age segments (e.g., 25-34).
 
- * **Revenue by Month (Area Chart):**
-   * Monthly revenue trends highlighting seasonality and peaks.
+  * **Revenue by Month (Area Chart):**
+    * Monthly revenue trends highlighting seasonality and peaks.
 
- * **Revenue by Product Category (Donut Chart):**
-   * Breakdown across Bikes, Accessories, and Clothing.
+  * **Revenue by Product Category (Donut Chart):**
+    * Breakdown across Bikes, Accessories, and Clothing.
 
- * **Revenue by State (Column Chart):**
-   * Geographical performance with top revenue states like California.
+  * **Revenue by State (Column Chart):**
+    * Geographical performance with top revenue states like California.
 
- * **Interactive Region Filters:**
-   * Analyze data specifically for regions like Australia, North America, or Western Europe.
+  * **Interactive Region Filters:**
+    * Analyze data specifically for regions like Australia, North America, or Western Europe.
 
- * **Drillthrough on Age Group:**
-   * Click on an age group in the bar chart to explore bike subcategory purchases (e.g., Mountain Bikes, Touring Bikes) made by that specific age group. This helps uncover product preferences by demographic for targeted product development and marketing.
+  * **Drillthrough on Age Group:**
+    * Click on an age group in the bar chart to explore bike subcategory purchases (e.g., Mountain Bikes, Touring Bikes) made by that specific age group. This helps uncover product preferences by demographic for targeted product development and marketing.
 
- * **Forecast Tab:**
-   * Predict future sales based on historical trends to aid strategic planning.
+  * **Forecast Tab:**
+    * Predict future sales based on historical trends to aid strategic planning.
 
   
 
