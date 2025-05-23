@@ -226,7 +226,7 @@
 ![Job Post_page-0001](https://github.com/user-attachments/assets/a3e30780-007a-438b-bf94-1b7becd41264)
 
 * **Features:**
-   ***Key Performance Indicators (KPIs):**
+   * **Key Performance Indicators (KPIs):**
      **Total Jobs:** Displays the total number of job postings.
      **Total Salaries:** Combined salary value offered across all jobs.
      **Average Salary:** Average annual salary across postings.
