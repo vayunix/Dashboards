@@ -260,6 +260,13 @@
       * **Jobs and Salary Analysis by Job Portal:** Evaluate job distribution and salary averages based on posting platforms (e.g., LinkedIn, Indeed).
       * **Total Jobs by Month:** Monthly trend of job postings specific to the selected city, highlighting seasonality or hiring surges.
 
+
+ * **Usage:**
+    * **Business and HR Stakeholders:**
+      *  **Hiring Strategy:** Identify cities and sectors with high job demand to focus recruitment.
+      *  **Salary Benchmarking:** Evaluate average salaries and total salary spend by year or location.
+      *  **Diversity Initiatives:** Analyze job preferences to tailor inclusive hiring policies.
+
 # 5) Awesome Chocolate Sales Analysis Dashboard
 
 * **objective:** The Awesome Chocolate Sales Analysis Dashboard is a dynamic Power BI solution built to track and analyze chocolate sales performance across countries, product categories, teams, and time periods. With interactive visuals and KPIs, it provides a comprehensive snapshot of total sales, costs, profit, shipments, and units sold. This dashboard empowers stakeholders to identify high-performing salespersons, profitable products, and regional trends to drive strategic decision-making.
